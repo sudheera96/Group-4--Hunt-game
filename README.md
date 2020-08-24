@@ -27,3 +27,11 @@ Once created, a quest can be opened up again for different teams or people. Each
 * It helps new Bearcats to explore unique and special parts of campus.
 * Encourages outside activities which will helps to lower the depressions levels of individuals due to Quarantine.
 
+# List of User Roles
+* Team Leader - Krishna Sumanth
+* Project Manager - Swaroop Reddy
+* Full Stack Developer - Yashwanth Damera
+* UI Developer - Prasad 
+* Database Engineer - Sudheera
+* FrontEnd Developer - Sai Krishna
+
