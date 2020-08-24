@@ -6,7 +6,7 @@
 2. Introduces Bearcats to unique and special parts of campus.
 3. Supports teamwork, while allowing players to remain safe.
 4. Could be an engaging icebreaker for various student organizations.
-# Vision
+# Overview
 We would like to create an app that can be played on a mobile device. The app would encourage players to complete a 'quest' by encountering a specific list of locations. A player would activate one of the locations in the quest. To score that location, the user must enter the geographic area (as determined by their mobile device). Locations may be explicitly identified (easier) - or described using clues (harder). The quest may require locations to be accessed in a specific order - or in any order as specified by the quest creator.
 
 Points may be earned for:
@@ -21,3 +21,9 @@ Once created, a quest can be opened up again for different teams or people. Each
 
 * A start and end datetime.
 * A set of participating teams.
+
+# Benfits
+* Hunts help people develop new skills and strengthen and reinforce other skills such as leadership, communication, and problem solving.
+* It helps new Bearcats to explore unique and special parts of campus.
+* Encourages outside activities which will helps to lower the depressions levels of individuals due to Quarantine.
+
