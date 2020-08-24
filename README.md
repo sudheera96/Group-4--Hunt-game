@@ -28,10 +28,12 @@ Once created, a quest can be opened up again for different teams or people. Each
 * Encourages outside activities which will helps to lower the depressions levels of individuals due to Quarantine.
 
 # List of User Roles
-* Full Stack Developer - Krishna Sumanth( Team Lead )
+* Team Leader - Krishna Sumanth
 * Project Manager - Swaroop Reddy
 * Full Stack Developer - Yashwanth Damera
 * UI Developer - Prasad 
 * Database Engineer - Sudheera
-* FrontEnd Developer and Testing - Sai Krishna
+* FrontEnd Developer - Sai Krishna
 
+# Entity Relation Diagram
+![ER Diagram](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/Group%20-%204%20Proposal%20ER.jpeg?raw=true)
