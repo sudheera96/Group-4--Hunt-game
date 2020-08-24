@@ -40,3 +40,6 @@ Once created, a quest can be opened up again for different teams or people. Each
 
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
+
+## User Interface Design:
+![Login Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/loginpage.png)
