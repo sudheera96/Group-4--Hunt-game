@@ -28,10 +28,10 @@ Once created, a quest can be opened up again for different teams or people. Each
 * Encourages outside activities which will helps to lower the depressions levels of individuals due to Quarantine.
 
 # List of User Roles
-* Team Leader - Krishna Sumanth
+* Full Stack Developer - Krishna Sumanth( Team Lead )
 * Project Manager - Swaroop Reddy
 * Full Stack Developer - Yashwanth Damera
 * UI Developer - Prasad 
 * Database Engineer - Sudheera
-* FrontEnd Developer - Sai Krishna
+* FrontEnd Developer and Testing - Sai Krishna
 
