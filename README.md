@@ -37,3 +37,6 @@ Once created, a quest can be opened up again for different teams or people. Each
 
 # Entity Relation Diagram
 ![ER Diagram](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/Group%20-%204%20Proposal%20ER.jpeg?raw=true)
+
+## Link to Microsoft Excel file containg sample data for all entities 
+[Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
