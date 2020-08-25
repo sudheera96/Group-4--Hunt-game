@@ -76,7 +76,11 @@ Hunt game is the very responsive game app which can be played on any device like
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
 ## Link to Repo
-[Repo Link](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/README.md)
+[Repo Link](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/README.md) 
+
+## schedule Management
+[link for Schedule Management Sheet](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
+
 
 ## User Interface Design:<br>
 
