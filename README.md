@@ -42,3 +42,6 @@ Hunt game is the very responsive game app which can be played on any device like
 
 ## User Interface Design:
 ![Login Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/loginpage.png)
+
+## JIRA LINK to PROJECT
+[JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
