@@ -1,5 +1,5 @@
 # Group-4--Hunt-game
-## Statment of Purpose
+## Stament of Purpose
 2020 has turned out to be an interesting year. We would like to create an outside, socially-distant game that:
 
 1. Encourages outside activity.
@@ -10,7 +10,7 @@
 Hunt game is the very responsive game app which can be played on any device like phone (IPhone and Android), laptop, Ipod. This game completely is an outside activity where people can have the opportunity to visit all the locations of their respective universities by solving quests. Hunt games makes people to do many tasks through different functionalities in order to engage in icebreaker. The functionalities like user can act like team player, designer of quest, hunt master, competition creator, and creator of quest location within 10 * 10 from his/her location, quest creator with specified time limits for other players to solve. Also player can invite other players, reject invitation from other players.About rejection of invitation, hunt game have the shared responsibility like if the user won’t accept the invitation from other user, hunt game itself reject the requests after certain period of time. Points can be achieved by the user depends upon the player reaching the location, player completing the quest, difficulty level of game, time taken to complete the game. Security can also be addressed for throughout the hunt game app as the data request and responses were end to end encrypted. This app also provides the visible and audible feedback to the users.Overall theme of the app can also be customized depending on the usage of app in different schools.This app justifies engaging activity between the users in pandemic situations.
 
 
-## Benefits
+## Benfits
 1.	Interact with friends
 2.	Meet new people
 3.	Improve creative skills
@@ -92,14 +92,19 @@ Hunt game is the very responsive game app which can be played on any device like
 * Once the user selects Team Icon.
 * The below page will be displayed, where the user will be able to create a team.
 * The user who creates the team will server as a captain of the team and will be able to send invite to the other user he wishes to add. <br>
-![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
+![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png) <br>
 
 * Once the invite is sent.
 * If other users accepts the request, they will be added into the user team.
 * For the user who wish to create the quest, the user will have to select Quest Icon.
 * After selecting the Quest Icon, the user will be able to view the existing Quests.
-* The user will be able to selct the existing Quest or wish to select Creat New Quest.
+* The user will be able to selct the existing Quest or wish to select Creat New Quest. <br>
 ![Quest Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png)
+* The will be able to view the details of the existing quest.
+![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png) <br>
+* If the user selects Crete New Quest, The user will be able to add a setg of locations and create a new quest.
+* The user should enter quest name, loaction name, location ID, location, loacvtion coordinates and Clues. <br>
+![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png) <br>
 
 ## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
@@ -136,12 +141,6 @@ Hunt game is the very responsive game app which can be played on any device like
    It is widely popular among web development comunity, as it is open source and license free tool. It supports almost any file we throw at it.
    
  * Markdown:
-   Most accessible simple format webpage to build most versatile documentation 
-   
-   ## Schedule Management
-   [link for Schedule Management Sheet](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
-   
-   ## Cost Estimate
-   [link for Cost Estimate Sheet](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/CostEstimate.xlsx)
+   Most accessible simple format webpage to build most versatile documentation
    
 
