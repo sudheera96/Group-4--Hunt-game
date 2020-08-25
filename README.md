@@ -40,8 +40,11 @@ Hunt game is the very responsive game app which can be played on any device like
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
+## Link to Project
+[PROJECT LINK](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/README.md)
+
 ## User Interface Design:
 ![Login Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/loginpage.png)
 
-## JIRA LINK to PROJECT
+## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
