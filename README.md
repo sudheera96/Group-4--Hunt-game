@@ -93,7 +93,7 @@ Hunt game is the very responsive game app which can be played on any device like
 * The below page will be displayed, where the user will be able to create a team.
 * The user who creates the team will server as a captain of the team and will be able to send invite to the other user he wishes to add. <br>
 ![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
-<br>
+
 * Once the invite is sent.
 * If other users accepts the request, they will be added into the user team.
 * For the user who wish to create the quest, the user will have to select Quest Icon.
