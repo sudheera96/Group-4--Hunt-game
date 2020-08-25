@@ -80,14 +80,13 @@ Hunt game is the very responsive game app which can be played on any device like
 
 ## User Interface Design:
 <br>
-* User Login to the Web Application:<br>
-<br>
+* User Login to the Web Application:<br><br>
+
 ![Login Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/loginpage.png)
 <br>
 * The following page will be displayed once the user logs into the web appliction.
-* The user will be able to select Team, Quest, Compition and profile.
-<br>
-<br>
+* The user will be able to select Team, Quest, Compition and profile.<br><br>
+
 ![2nd Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/2nd%20.png)
 ## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
