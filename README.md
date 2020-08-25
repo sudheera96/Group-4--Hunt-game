@@ -72,6 +72,10 @@ Hunt game is the very responsive game app which can be played on any device like
 ## Entity Relation Diagram
 ![ER Diagram](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/Group%20-%204%20Proposal%20ER.jpeg?raw=true)
 
+* In this project we will be handling with data of different aspects.
+Most Important data here is the user entity. User is the minimum requirement for a person to any role like to be a player, be in a team, participate in a competition and play a quest.
+* We have associative entities in places where relation of multiple degree between entities - Player & Team, Competition & Team, Location & Quest to avoid multiple values which may result in hindering with the Primary Keys
+
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
