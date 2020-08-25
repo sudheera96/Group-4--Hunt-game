@@ -93,4 +93,29 @@ Hunt game is the very responsive game app which can be played on any device like
 ### JIRA Sprint 3
 ![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
 
+## Technology stack descriptions
+ * HTML: 
+   Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading    Style Sheets (CSS) and scripting languages such as JavaScript.
+   
+ * CSS:
+   CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the      layout of multiple web pages all at once. External stylesheets are stored in CSS files.
+   
+ * Java Script:
+   JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages      that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+   
+ * Node-JS
+   Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node. js uses an event-driven, non-blocking I/O model    that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+ 
+ * Git-Hub
+   GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also      provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+   
+ * Mongo DB
+   MongoDB is a document-oriented NoSQL database used for high volume data storage. Instead of using tables and rows as in the traditional relational databases, MongoDB makes      use of collections and documents.
+   
+ * VS Code:
+   It is widely popular among web development comunity, as it is open source and license free tool. It supports almost any file we throw at it.
+   
+ * Markdown:
+   Most accessible simple format webpage to build most versatile documentation
+   
 
