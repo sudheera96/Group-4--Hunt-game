@@ -146,5 +146,10 @@ Hunt game is the very responsive game app which can be played on any device like
    
  * Markdown:
    Most accessible simple format webpage to build most versatile documentation
+   ## Schedule Management
+   [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
+    ![Shedule Managment](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
+
+ 
    
 
