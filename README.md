@@ -136,6 +136,12 @@ Hunt game is the very responsive game app which can be played on any device like
    It is widely popular among web development comunity, as it is open source and license free tool. It supports almost any file we throw at it.
    
  * Markdown:
-   Most accessible simple format webpage to build most versatile documentation
+   Most accessible simple format webpage to build most versatile documentation 
+   
+   ## Schedule Management
+   [link for Schedule Management Sheet](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
+   
+   ## Cost Estimate
+   [link for Cost Estimate Sheet](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/CostEstimate.xlsx)
    
 
