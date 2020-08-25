@@ -59,6 +59,21 @@ Hunt game is the very responsive game app which can be played on any device like
    5. The hunt master invites a list of teams to compete about a week before.
    6. Each team captain can accept or reject the invitation.
    7. By 24 hours before the competition, if not accepted, assume rejection.
+   
+## Hosted Github Page
+[Hosted Github Page](https://sudheera96.github.io/Group-4--Hunt-game/)
+
+## JIRA Link to Project
+[JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
+
+### JIRA Sprint 1
+![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-1.png?raw=true)
+
+### JIRA Sprint 2
+![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-2.png?raw=true)
+
+### JIRA Sprint 3
+![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
 
 
 ## List of User Roles
@@ -88,17 +103,7 @@ Hunt game is the very responsive game app which can be played on any device like
 * The user will be able to select Team, Quest, Compition and profile.<br><br>
 
 ![2nd Page](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/2nd%20.png)
-## JIRA Link to Project
-[JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
 
-### JIRA Sprint 1
-![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-1.png?raw=true)
-
-### JIRA Sprint 2
-![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-2.png?raw=true)
-
-### JIRA Sprint 3
-![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
 
 ## Technology stack descriptions
  * HTML: 
