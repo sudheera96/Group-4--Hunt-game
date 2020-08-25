@@ -1,5 +1,5 @@
 # Group-4--Hunt-game
-## Stament of Purpose
+## Statment of Purpose
 2020 has turned out to be an interesting year. We would like to create an outside, socially-distant game that:
 
 1. Encourages outside activity.
@@ -10,7 +10,7 @@
 Hunt game is the very responsive game app which can be played on any device like phone (IPhone and Android), laptop, Ipod. This game completely is an outside activity where people can have the opportunity to visit all the locations of their respective universities by solving quests. Hunt games makes people to do many tasks through different functionalities in order to engage in icebreaker. The functionalities like user can act like team player, designer of quest, hunt master, competition creator, and creator of quest location within 10 * 10 from his/her location, quest creator with specified time limits for other players to solve. Also player can invite other players, reject invitation from other players.About rejection of invitation, hunt game have the shared responsibility like if the user won’t accept the invitation from other user, hunt game itself reject the requests after certain period of time. Points can be achieved by the user depends upon the player reaching the location, player completing the quest, difficulty level of game, time taken to complete the game. Security can also be addressed for throughout the hunt game app as the data request and responses were end to end encrypted. This app also provides the visible and audible feedback to the users.Overall theme of the app can also be customized depending on the usage of app in different schools.This app justifies engaging activity between the users in pandemic situations.
 
 
-## Benfits
+## Benefits
 1.	Interact with friends
 2.	Meet new people
 3.	Improve creative skills
