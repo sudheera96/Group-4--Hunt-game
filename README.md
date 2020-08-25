@@ -72,6 +72,10 @@ Hunt game is the very responsive game app which can be played on any device like
 ## Entity Relation Diagram
 ![ER Diagram](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/Group%20-%204%20Proposal%20ER.jpeg?raw=true)
 
+* In this project we will be handling with data of different aspects.
+Most Important data here is the user entity. User is the minimum requirement for a person to any role like to be a player, be in a team, participate in a competition and play a quest.
+* We have associative entities in places where relation of multiple degree between entities - Player & Team, Competition & Team, Location & Quest to avoid multiple values which may result in hindering with the Primary Keys
+
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
@@ -92,19 +96,16 @@ Hunt game is the very responsive game app which can be played on any device like
 * Once the user selects Team Icon.
 * The below page will be displayed, where the user will be able to create a team.
 * The user who creates the team will server as a captain of the team and will be able to send invite to the other user he wishes to add. <br>
-![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png) <br>
 
+![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
+<br>
 * Once the invite is sent.
 * If other users accepts the request, they will be added into the user team.
 * For the user who wish to create the quest, the user will have to select Quest Icon.
 * After selecting the Quest Icon, the user will be able to view the existing Quests.
-* The user will be able to selct the existing Quest or wish to select Creat New Quest. <br>
+* The user will be able to selct the existing Quest or wish to select Creat New Quest.
+
 ![Quest Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png)
-* The will be able to view the details of the existing quest.
-![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png) <br>
-* If the user selects Crete New Quest, The user will be able to add a setg of locations and create a new quest.
-* The user should enter quest name, loaction name, location ID, location, loacvtion coordinates and Clues. <br>
-![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png) <br>
 
 ## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
@@ -141,14 +142,6 @@ Hunt game is the very responsive game app which can be played on any device like
    It is widely popular among web development comunity, as it is open source and license free tool. It supports almost any file we throw at it.
    
  * Markdown:
-   Most accessible simple format webpage to build most versatile documentation 
-   
-  ## Schedule Management
-   [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
-    [](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
-
-  ## Cost Estimate 
-     [link for Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/CostEstimate.xlsx)
-          [](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225144.png)
+   Most accessible simple format webpage to build most versatile documentation
    
 
