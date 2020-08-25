@@ -11,16 +11,27 @@ Hunt game is the very responsive game app which can be played on any device like
 
 
 # Benfits
-* Hunts help people develop new skills and strengthen and reinforce other skills such as leadership, communication, and problem solving.
-* It helps new Bearcats to explore unique and special parts of campus.
-* Encourages outside activities which will helps to lower the depressions levels of individuals due to Quarantine.
+1.	Interact with friends
+2.	Meet new people
+3.	Improve creative skills
+4.	Learn leadership skills
+5.	Detail exploration of the university and its services
+6.	Gain knowledge on college history
+7.	Improve problem solving skills
+8.	Learn Managing skills
+9.	Play on any device
+10.	Keeps you motivated and Won’t feel alone
+11.	Acts like a workout
+12.	Free marketing for University as users share across social media
+
+
 
 # List of User Roles
 * Full Stack Developer - Krishna Sumanth ( Team lead)
 * Project Manager - Swaroop Reddy
 * Full Stack Developer - Yashwanth Damera
 * UI Developer - Prasad 
-* Database Engineer - Sudheera
+* Database Engineer - Sri Sudheera Chitipolu
 * FrontEnd Developer and Testing - Sai Krishna
 
 # Entity Relation Diagram
