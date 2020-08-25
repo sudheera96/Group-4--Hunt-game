@@ -148,12 +148,15 @@ Hunt game is the very responsive game app which can be played on any device like
    Most accessible simple format webpage to build most versatile documentation
    ## Schedule Management
    [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
-    ![Shedule Managment](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
+   
+   ![Shedule Managment](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
    
   ## Cost Estimate
   [link for Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/CostEstimate.xlsx)
-          ![Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225144.png)
+  
+  ![Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225144.png)
 
  
-   
+  # Electronic Form RFP (Request For Proposal)
+  [RFP- Hunt Game](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
 
