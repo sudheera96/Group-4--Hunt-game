@@ -7,20 +7,8 @@
 3. Supports teamwork, while allowing players to remain safe.
 4. Could be an engaging icebreaker for various student organizations.
 # Overview
-We would like to create an app that can be played on a mobile device. The app would encourage players to complete a 'quest' by encountering a specific list of locations. A player would activate one of the locations in the quest. To score that location, the user must enter the geographic area (as determined by their mobile device). Locations may be explicitly identified (easier) - or described using clues (harder). The quest may require locations to be accessed in a specific order - or in any order as specified by the quest creator.
+Hunt game is the very responsive game app which can be played on any device like phone (IPhone and Android), laptop, Ipod. This game completely is an outside activity where people can have the opportunity to visit all the locations of their respective universities by solving quests. Hunt games makes people to do many tasks through different functionalities in order to engage in icebreaker. The functionalities like user can act like team player, designer of quest, hunt master, competition creator, and creator of quest location within 10 * 10 from his/her location, quest creator with specified time limits for other players to solve. Also player can invite other players, reject invitation from other players.About rejection of invitation, hunt game have the shared responsibility like if the user won’t accept the invitation from other user, hunt game itself reject the requests after certain period of time. Points can be achieved by the user depends upon the player reaching the location, player completing the quest, difficulty level of game, time taken to complete the game. Security can also be addressed for throughout the hunt game app as the data request and responses were end to end encrypted. This app also provides the visible and audible feedback to the users.Overall theme of the app can also be customized depending on the usage of app in different schools.This app justifies engaging activity between the users in pandemic situations.
 
-Points may be earned for:
-
-* a player reaching a location
-* a player completing a quest
-Points for each location may be assigned based on the estimated difficulty.
-
-Points for a completed quest may be based on the sum of the location points earned along with a possible bonus based on locating all points (a completion bonus) - and/or based on the time to complete the quest as specified by the quest creator.
-
-Once created, a quest can be opened up again for different teams or people. Each instance of a quest should be associated with:
-
-* A start and end datetime.
-* A set of participating teams.
 
 # Benfits
 * Hunts help people develop new skills and strengthen and reinforce other skills such as leadership, communication, and problem solving.
