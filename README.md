@@ -76,6 +76,14 @@ Hunt game is the very responsive game app which can be played on any device like
 Most Important data here is the user entity. User is the minimum requirement for a person to any role like to be a player, be in a team, participate in a competition and play a quest.
 * We have associative entities in places where relation of multiple degree between entities - Player & Team, Competition & Team, Location & Quest to avoid multiple values which may result in hindering with the Primary Keys
 
+## Sample Data Handling
+
+For Instance, we have 20 users who will be able to login with their unique emfor our app and 2 users have created two different quests named 'Dragon Hunt' and 'Duck Hunt'. Now, we have picked 11 locations in University to use as the checkpoints for these quests.
+
+There is a competition with ID CI4011 in which 19 players have formed into 4 teams with 5 members in three teams and 4 members in one team. Two quests have used 4 locations each to form a hunt and based on the time taken by the teams, the teams have been scored accordingly.Then we compare scores and finalize a winner.
+
+We issue a final team score to each team and 
+
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
