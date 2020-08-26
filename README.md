@@ -80,9 +80,9 @@ Most Important data here is the user entity. User is the minimum requirement for
 
 For Instance, we have 20 users who will be able to login with their unique emfor our app and 2 users have created two different quests named 'Dragon Hunt' and 'Duck Hunt'. Now, we have picked 11 locations in University to use as the checkpoints for these quests.
 
-There is a competition with ID CI4011 in which 19 players have formed into 4 teams with 5 members in three teams and 4 members in one team. Two quests have used 4 locations each to form a hunt and based on the time taken by the teams, the teams have been scored accordingly.Then we compare scores and finalize a winner.
+There is a competition with ID CI4011 in which 19 players have formed into 4 teams with 5 members in three teams and 4 members in one team. Two quests have used 4 locations each to form a hunt and based on the time taken by the teams, the teams have been scored accordingly.
 
-We issue a final team score to each team and 
+We issue a final team score to each team and then we compare scores and finalize a winner.
 
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
