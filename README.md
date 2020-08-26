@@ -90,6 +90,9 @@ We issue a final team score to each team and then we compare scores and finalize
 ## Link to Project
 [PROJECT LINK](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/README.md)
 
+## Hosted Link
+[Hosted Link](https://sudheera96.github.io/Group-4--Hunt-game/)
+
 ## User Interface Design:<br>
 
 * User Login to the Web Application:<br><br>
