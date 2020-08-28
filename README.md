@@ -84,6 +84,7 @@ There is a competition with ID CI4011 in which 19 players have formed into 4 tea
 
 We issue a final team score to each team and then we compare scores and finalize a winner.
 
+### User Entity with sample data
 
 | S.No | E-mail                         | Password        | Username          | Date created | Date last accessed |
 |------|--------------------------------|-----------------|-------------------|--------------|--------------------|
@@ -107,6 +108,34 @@ We issue a final team score to each team and then we compare scores and finalize
 | 18   | kiran021997@gmail.com          | ***********     | Usha_Kiran        | 6/6/2020     | 8/15/2020          |
 | 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
 | 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
+
+### Player Enity sample data
+
+| S.No | PlayerID | Player NickName | Points to a User |
+|------|----------|-----------------|------------------|
+| 1    | 12010    | Jack            | 202              |
+| 2    | 12011    | Loser           | 512              |
+| 3    | 12012    | Joy             | 23               |
+| 4    | 12013    | Charles         | 987              |
+| 5    | 12014    | Shooter         | 98               |
+| 6    | 12015    | Hunter          | 465              |
+| 7    | 12016    | Krish           | 999              |
+| 8    | 12017    | Anna            | 1231             |
+| 9    | 12018    | GD              | 89               |
+| 10   | 12019    | Yash            | 5                |
+| 11   | 12020    | Gopi            | 636              |
+| 12   | 12021    | Alex            | 101              |
+| 13   | 12022    | Chainbreaker    | 473              |
+| 14   | 12023    | Kingkong        | 84               |
+| 15   | 12024    | Godzilla        | 31               |
+| 16   | 12025    | Hulk            | 9876             |
+| 17   | 12026    | Batman          | 56               |
+| 18   | 12027    | Deadpool        | 567              |
+| 19   | 12028    | Chainsmoker     | 56               |
+
+### 
+
+
 
 
 ## Link to Microsoft Excel file containg sample data for all entities 
