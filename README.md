@@ -209,7 +209,14 @@ We issue a final team score to each team and then we compare scores and finalize
 | 7    | 1       | L90127     |
 | 8    | 2       | L90128     |
 
-###
+#### Competition Mapping entity with sample data
+
+| S.No | CompetitionID | TeamID | Team Score |
+|------|---------------|--------|------------|
+| 1    | CI4011        | 101    | 512        |
+| 2    | CI4011        | 102    | 256        |
+| 3    | CI4011        | 103    | 786        |
+| 4    | CI4011        | 104    | 666        |
 
 
 ## Link to Microsoft Excel file containg sample data for all entities 
