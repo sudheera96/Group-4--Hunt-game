@@ -84,7 +84,7 @@ There is a competition with ID CI4011 in which 19 players have formed into 4 tea
 
 We issue a final team score to each team and then we compare scores and finalize a winner.
 
-### User Entity with sample data
+### User entity with sample data
 
 | S.No | E-mail                         | Password        | Username          | Date created | Date last accessed |
 |------|--------------------------------|-----------------|-------------------|--------------|--------------------|
@@ -109,7 +109,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
 | 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
 
-### Player Enity with sample data
+### Player enity with sample data
 
 | S.No | PlayerID | Player NickName | Points to a User |
 |------|----------|-----------------|------------------|
@@ -141,6 +141,22 @@ We issue a final team score to each team and then we compare scores and finalize
 | 2    | 102    | Mavericks          | Swaroop_Reddy     | 8/19/2020    | 8/20/2020        |
 | 3    | 103    | Sunrisers horizons | Shiva_Ramakrishna | 8/22/2020    | 8/23/2020        |
 | 4    | 104    | Barbies            | Chandana_Priya    | 08/192020    | 8/23/2020        |
+
+### Location entity with sample data
+
+| S.No | Location Number | Location Clue                            | Location Coordinates   |
+|------|-----------------|------------------------------------------|------------------------|
+| 1    | L90121          | Tall tower which resonates               | 40.3520° N, 94.8825° W |
+| 2    | L90122          | Two persons found studying but not alive | 42.3620° N, 89.7732° W |
+| 3    | L90123          | Place with lot of shelves                | 39.7587° N, 91.2457° W |
+| 4    | L90124          | Place where it continuously showers      | 41.7658° N, 92.0972° W |
+| 5    | L90125          | large ellipse                            | 40.4397° N, 91.8572° W |
+| 6    | L90126          | breaks a lot of sweat                    | 42.1258° N, 91.0976° W |
+| 7    | L90127          | Represents every nation                  | 42.2152° N, 91.9231° W |
+| 8    | L90128          | place with lot of computers              | 41.8787° N, 93.9056° W |
+| 9    | L90129          | chicken…chicken                          | 42.3620° N, 89.7732° W |
+| 10   | L90130          | coffee spot                              | 40.6799° N, 90.8925° W |
+| 11   | L90131          | fun and frustration                      | 42.1258° N, 91.0976° W |
 
 ### 
 
