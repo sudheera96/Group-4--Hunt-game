@@ -109,7 +109,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
 | 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
 
-### Player Enity sample data
+### Player Enity with sample data
 
 | S.No | PlayerID | Player NickName | Points to a User |
 |------|----------|-----------------|------------------|
@@ -133,9 +133,16 @@ We issue a final team score to each team and then we compare scores and finalize
 | 18   | 12027    | Deadpool        | 567              |
 | 19   | 12028    | Chainsmoker     | 56               |
 
+### Team entity with sample data
+
+| S.No | TeamID | Team Name          | Creator           | Date Created | Date last Edited |
+|------|--------|--------------------|-------------------|--------------|------------------|
+| 1    | 101    | Thunder Guys       | Prasad_GD         | 8/20/2020    | 8/24/2020        |
+| 2    | 102    | Mavericks          | Swaroop_Reddy     | 8/19/2020    | 8/20/2020        |
+| 3    | 103    | Sunrisers horizons | Shiva_Ramakrishna | 8/22/2020    | 8/23/2020        |
+| 4    | 104    | Barbies            | Chandana_Priya    | 08/192020    | 8/23/2020        |
+
 ### 
-
-
 
 
 ## Link to Microsoft Excel file containg sample data for all entities 
