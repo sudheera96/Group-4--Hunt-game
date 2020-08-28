@@ -196,6 +196,19 @@ We issue a final team score to each team and then we compare scores and finalize
 | 19   | 102    | 12028    | 8/24/2020    | 8/24/2020            | X                    | x             |
 | 20   | 104    | 12029    | 8/24/2020    | 8/24/2020            | X                    | 8/24/2020     |
 
+### QuestLocation Mapping entity with sample data
+
+| S.No | QuestID | LocationID |
+|------|---------|------------|
+| 1    | 1       | L90121     |
+| 2    | 1       | L90122     |
+| 3    | 2       | L90123     |
+| 4    | 2       | L90124     |
+| 5    | 1       | L90125     |
+| 6    | 2       | L90126     |
+| 7    | 1       | L90127     |
+| 8    | 2       | L90128     |
+
 ###
 
 
