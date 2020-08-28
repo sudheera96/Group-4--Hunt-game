@@ -209,7 +209,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 7    | 1       | L90127     |
 | 8    | 2       | L90128     |
 
-#### Competition Mapping entity with sample data
+### Competition Mapping entity with sample data
 
 | S.No | CompetitionID | TeamID | Team Score |
 |------|---------------|--------|------------|
