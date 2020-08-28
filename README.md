@@ -84,6 +84,31 @@ There is a competition with ID CI4011 in which 19 players have formed into 4 tea
 
 We issue a final team score to each team and then we compare scores and finalize a winner.
 
+
+| S.No | E-mail                         | Password        | Username          | Date created | Date last accessed |
+|------|--------------------------------|-----------------|-------------------|--------------|--------------------|
+| 1    | alex154590@gmail.com           | ***********     | Alekya_Jaddu      | 8/3/2020     | 8/14/2020          |
+| 2    | samarpita.chandolu@outlook.com | *********       | Annie_Chandolu    | 6/3/2020     | 8/15/2020          |
+| 3    | bhanu1994@gmail.com            | ************    | Bhanu_Prakash     | 7/22/2020    | 8/14/2020          |
+| 4    | chandu131198@gmail.com         | *************** | Chandana_Priya    | 8/17/2020    | 8/16/2020          |
+| 5    | chanduhvg@gmail.com            | ************    | Gopi_chand        | 8/16/2020    | 8/15/2020          |
+| 6    | p.harichandraprasad@gmail.com  | *********       | Hari_Chandra      | 8/16/2020    | 8/14/2020          |
+| 7    | krishna.ksk1996@gmail.com      | **********      | Krishna_Sumanth   | 7/11/2020    | 8/16/2020          |
+| 8    | mohansai03@outlook.com         | ***********     | Mohan_Sai         | 7/30/2020    | 8/14/2020          |
+| 9    | prasad.gd@gmail.com            | **********      | Prasad_GD         | 7/9/2020     | 8/14/2020          |
+| 10   | pruthvunaskanti@hotmail.com    | *********       | Pruthvi_Naskanti  | 5/13/2020    | 8/14/2020          |
+| 11   | raviteja.pagidoju@gmail.com    | *************   | Ravi_Teja         | 8/1/2020     | 8/15/2020          |
+| 12   | saikrish1545@gmail.com         | **************  | Sai_Krishna       | 8/8/2020     | 8/16/2020          |
+| 13   | teja2004@woutlook.com          | ***********     | Sai_Teja          | 8/4/2020     | 8/14/2020          |
+| 14   | srkvodnala@gmail.com           | ************    | Shiva_Ramakrishna | 7/3/2020     | 8/16/2020          |
+| 15   | sudheera.chitipolu@gmail.com   | *************   | Sri_Sudheera      | 6/19/2020    | 8/16/2020          |
+| 16   | swaroopreddy.g@gmail.com       | ************    | Swaroop_Reddy     | 5/31/2020    | 8/16/2020          |
+| 17   | swaroopat@hotmail.com          | ************    | Swaroopa_Reddy    | 5/5/2020     | 8/14/2020          |
+| 18   | kiran021997@gmail.com          | ***********     | Usha_Kiran        | 6/6/2020     | 8/15/2020          |
+| 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
+| 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
+
+
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
 
