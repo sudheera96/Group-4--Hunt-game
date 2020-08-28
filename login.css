@@ -1,4 +1,16 @@
+    #sec {
+    padding: 50px 150px 100px;
+    background-color: #00674c;
+}
+
 #card {
-    padding: 50px 200px 100px;
+    padding: 20px 50px 20px;
     color: 00674c;
 }
+
+#navi {
+    background-color: #00674c;
+}
+
+#logo {
+    background-color: #00674c;
