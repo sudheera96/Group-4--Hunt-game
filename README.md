@@ -158,8 +158,20 @@ We issue a final team score to each team and then we compare scores and finalize
 | 10   | L90130          | coffee spot                              | 40.6799° N, 90.8925° W |
 | 11   | L90131          | fun and frustration                      | 42.1258° N, 91.0976° W |
 
-### 
+### Quest entity with sample data
 
+| S.No | QuestID | QuestName   | Designer        | Date Created | Date last Accessed |
+|------|---------|-------------|-----------------|--------------|--------------------|
+| 1    | 10011   | Dragon Hunt | Swaroop_Reddy   | 8/23/2020    | 8/24/2020          |
+| 2    | 10022   | Duck Hunt   | Krishna_Sumanth | 8/24/2020    | 8/24/2020          |
+
+### Competition entity with sample data
+
+| S.No | CompetitionID | Competition Name | Creator | Date Created | Start     | End       |
+|------|---------------|------------------|---------|--------------|-----------|-----------|
+| 1    | CI4011        | Dragon Duck      | Krishna | 8/23/2020    | 8/24/2020 | 8/31/2020 |
+
+###
 
 ## Link to Microsoft Excel file containg sample data for all entities 
 [Spreadsheet with sample data](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/GDP_SampleData.xlsx?raw=true)
