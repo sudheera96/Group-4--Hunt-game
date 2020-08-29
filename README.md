@@ -194,7 +194,6 @@ We issue a final team score to each team and then we compare scores and finalize
 | 17   | 101    | 12026    | 8/24/2020    | 8/24/2020            | X                    | x             |
 | 18   | 103    | 12027    | 8/24/2020    | 8/24/2020            | X                    | x             |
 | 19   | 102    | 12028    | 8/24/2020    | 8/24/2020            | X                    | x             |
-| 20   | 104    | 12029    | 8/24/2020    | 8/24/2020            | X                    | 8/24/2020     |
 
 ### QuestLocation Mapping entity with sample data
 
@@ -213,10 +212,10 @@ We issue a final team score to each team and then we compare scores and finalize
 
 | S.No | CompetitionID | TeamID | Team Score |
 |------|---------------|--------|------------|
-| 1    | CI4011        | 101    | 512        |
-| 2    | CI4011        | 102    | 256        |
-| 3    | CI4011        | 103    | 786        |
-| 4    | CI4011        | 104    | 666        |
+| 1    | CI4011        | 101    | 445        |
+| 2    | CI4011        | 102    | 1220       |
+| 3    | CI4011        | 103    | 3031       |
+| 4    | CI4011        | 104    | 2805       |
 
 
 ## Link to Microsoft Excel file containg sample data for all entities 
