@@ -295,7 +295,7 @@ We issue a final team score to each team and then we compare scores and finalize
    It is widely popular among web development comunity, as it is open source and license free tool. It supports almost any file we throw at it.
    
  * Markdown:
-   Most accessible simple format webpage to build most versatile documentation
+   Most accessible simple format webpage to build most versatile documentation.
    
   ## Schedule Management
   [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
