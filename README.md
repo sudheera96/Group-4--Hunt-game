@@ -29,6 +29,10 @@ Hunt game is the very responsive game app which can be played on any device like
 1. User must register into game with email ID. Until user won't register he/she are uneligible to play the game.
 2. Even for creating the competiton and for creaing quest user need to register in the game.
 
+## Client
+Dr. Denise Case
+Dr. Charles Hoot
+
 ## Administrator Roles in Application
 * Access to all information including app settings
 
