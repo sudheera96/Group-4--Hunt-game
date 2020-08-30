@@ -1,6 +1,6 @@
 # Swaroop Reddy Gottigundala :
 1. Attendence :
-* I have attended GDP1 class inperson on 21st.
+* I have attended GDP1 class inperson on 21st. And the remaining days i went with the zoom.
 2. On the first day i was working on accepting the github repo invitations from my team lead and also accepting the jira invitations. We also had a meeting on first day how to proceed further.
 
 * On the first day we have initiated a call among us on how to proceed further regarding our application.
