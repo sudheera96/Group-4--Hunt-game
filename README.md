@@ -262,8 +262,8 @@ We issue a final team score to each team and then we compare scores and finalize
 ![Quest Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png) <br>
 * After clicking the views of respective quest,Then it  will be able to view the details of the existing quest. <br>
 ![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png) <br>
-* If the user selects Crete New Quest, The user will be able to add a setg of locations and create a new quest.
-* The user should enter quest name, loaction name, location ID, location, loacvtion coordinates and Clues. <br>
+* If the user selects Crete New Quest, The user will be able to add a set of locations and create a new quest.
+* The user should enter quest name, loaction name, location ID, location, location coordinates and Clues. <br>
 ![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png) <br>
 * The user who wish to join a Competition will have to click the Competition Icon and select the Existing Competitions.
 * If the user wants to create a new compition, the user should click create new competition button. <br>
