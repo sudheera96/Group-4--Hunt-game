@@ -1,11 +1,13 @@
 ## My Tasks
 Attendance :
- - Attended GDP1 class inperson on 21st and 26th of August and attended zoom sessions on 19th and 28th.
+ - Attended GDP1 class inperson on 21st and 26th of August and attended zoom sessions on 28th.
  
 First day of my project I have created Jira account and added the other team members into the project created in Jira "Group-4-RFP-Hunt-Game". Our group members had a meeting on day one how to proceed further.
 
 On the first day of meeting,
 We have discussed about the user roles, various types of technologies, scheduling the work. 
+
+First day of the project
 
 - [Hosted Jira project Link](https://github.com/sudheera96/Group-4--Hunt-game/commit/f2515a6b9cf72237754b400e6718a13cfabbdc56)
 
@@ -22,9 +24,13 @@ After the First team meeting we have selected technology stack. We have decided 
 
 - [Added Hosted Github page Link](https://github.com/sudheera96/Group-4--Hunt-game/commit/f10631cb08c6d2864bb6f1cefe008ef16e56dec5)
 
+second day I have added Sub tasks in Jira and assigned them to the each team members. Created 3 sprints plan after discussing with team members.
+
 - [Added Subtasks in Jira](https://github.com/sudheera96/Group-4--Hunt-game/commit/f10631cb08c6d2864bb6f1cefe008ef16e56dec5)
 
 - [Fixed errors regarding schedule management in git hub while uploading](https://github.com/sudheera96/Group-4--Hunt-game/commit/46a0690724801fbfb5bd7e840eee8938ba9aff76)
+
+Third day made some changes in Jira user stories after discussion with client.
 
 - [Deleted User roles in Jira to change the roles](https://github.com/sudheera96/Group-4--Hunt-game/commit/bbf435d24e168c789d9626437d8720e8202c777b)
 
