@@ -15,7 +15,7 @@ Wednesday August 26 (in-person)
 ## 2.Half day 1
 
 In this Half day 1,I spent discussing
-- with group regarding the project
+- with group regarding the project like what is the agenda of the game.How points are calculated. Quest are compulsory or not?Can user create own location for game? Is this game can play in any device.
 - with Dr.Case regarding the who are the Clients for the project
 - About team lead who wants to be as team lead
 - Dividing the tasks for the assignments provided 
