@@ -18,9 +18,8 @@ Ans: We discussed among ourselves and team member voluntarily took individual pa
 * [Added proposal Document Data](https://github.com/sudheera96/Group-4--Hunt-game/commit/bb203bd44aa63f22a29f8a5b19a5b3b1f74b196a)
 * [Edited proposal Document](https://github.com/sudheera96/Group-4--Hunt-game/commit/ac7cc327c278373bde9dedcf636bfa7af55e52f4)
 
-4. On the Second day i started working on cost estimation task which is assigned, and created a cost estimation draft file for our project. And I also conducted a meeting regarding
-   regarding Status about individual tasks assigned to our team. And also created sub tasks of my given tast and started working on one by one.
-   Questions and answers discussed:
+4. On the Second day i started working on cost estimation task which is assigned, and created a cost estimation draft file for our project. And I also conducted a meeting    regarding Status about individual tasks assigned to our team. And also created sub tasks of my given tast and started working on one by one.
+Questions and answers discussed:
    1. I asked yashwanth about his jira user stories creation.
    Ans: He created a individual tasks/user stories to our team members and successfully started our first sprint.
    2. I asked krishna about the ER Model and the sample data.
