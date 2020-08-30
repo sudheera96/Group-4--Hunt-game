@@ -260,7 +260,7 @@ We issue a final team score to each team and then we compare scores and finalize
 * After selecting the Quest Icon, the user will be able to view the existing Quests.
 * The user will be able to selct the existing Quest or wish to select Creat New Quest. <br>
 ![Quest Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png) <br>
-* The will be able to view the details of the existing quest. <br>
+* After clicking the views of respective quest,Then it  will be able to view the details of the existing quest. <br>
 ![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png) <br>
 * If the user selects Crete New Quest, The user will be able to add a setg of locations and create a new quest.
 * The user should enter quest name, loaction name, location ID, location, loacvtion coordinates and Clues. <br>
