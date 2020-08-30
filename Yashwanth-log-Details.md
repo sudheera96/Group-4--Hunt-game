@@ -4,8 +4,8 @@
  
 2. First day of my project I have created Jira account and added the other team members into the project created in Jira "Group-4-RFP-Hunt-Game". Our group members had a meeting on day one how to proceed further.
 
-
-
+On the first day of meeting,
+We have discussed about the user roles, various types of technologies, scheduling the work. 
 
 - [Hosted Jira project Link](https://github.com/sudheera96/Group-4--Hunt-game/commit/f2515a6b9cf72237754b400e6718a13cfabbdc56)
 
@@ -16,6 +16,9 @@
 After the First team meeting we have selected technology stack. We have decided to do with HTML,CSS,Java Script,Node-JS,Git-Hub,Mongo DB,VS Code,Markdown.
 
 - [Added Technology Stack](https://github.com/sudheera96/Group-4--Hunt-game/commit/014135239f3bd83737a1db9cf7d9eb5d66d41e61)
+
+#### In our second meeting Swaroop our team manager asked about user stories in Jira.
+     I have updated all the user stories in Jira.
 
 - [Added Hosted Github page Link](https://github.com/sudheera96/Group-4--Hunt-game/commit/f10631cb08c6d2864bb6f1cefe008ef16e56dec5)
 
