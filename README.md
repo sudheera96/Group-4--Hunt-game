@@ -26,7 +26,7 @@ Hunt game is the very responsive game app which can be played on any device like
 
 ## Cons
 
-User must register into game with email ID.
+User must register into game with email ID. Until user won't register he/she are uneligible to play the game.
 
 ## Administrator Roles in Application
 * Access to all information including app settings
