@@ -63,7 +63,7 @@ Hunt game is the very responsive game app which can be played on any device like
 
 ## List of User Roles
 * Full Stack Developer - Krishna Sumanth ( Team lead)
-* Project Manager - Swaroop Reddy
+* Project Manager -  Swaroop Reddy
 * Full Stack Developer - Yashwanth Damera
 * UI Developer - Prasad 
 * Database Engineer - Sri Sudheera Chitipolu
