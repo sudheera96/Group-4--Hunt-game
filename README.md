@@ -296,7 +296,7 @@ We issue a final team score to each team and then we compare scores and finalize
    Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node. js uses an event-driven, non-blocking I/O model    that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
  
  * Git-Hub
-   GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also      provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+   GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also      provides access control and several collaboration features, such as a wikis and basic task management tools for every project.Also, through git we can keep track of the flow    of work like who commited what. Other good feature of the git is to we can select any template for host page.
    
  * Mongo DB
    MongoDB is a document-oriented NoSQL database used for high volume data storage. Instead of using tables and rows as in the traditional relational databases, MongoDB makes      use of collections and documents.
