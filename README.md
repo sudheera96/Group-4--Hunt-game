@@ -270,6 +270,13 @@ We issue a final team score to each team and then we compare scores and finalize
 ![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/compitionpage1.png) <br>
 * Once the user selects the create new competition, the user will be directed to the Quest page and continue as listed in the above.
 
+## Issues:
+1. Can someone play without registering?
+1. Can a user be a member of more than one team?
+1. Will there be a leader board?
+1. How will clues be given?
+1. How do you specify target area?
+
 ## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
 
