@@ -102,7 +102,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 12   | saikrish1545@gmail.com         | **************  | Sai_Krishna       | 8/8/2020     | 8/16/2020          |
 | 13   | teja2004@woutlook.com          | ***********     | Sai_Teja          | 8/4/2020     | 8/14/2020          |
 | 14   | srkvodnala@gmail.com           | ************    | Shiva_Ramakrishna | 7/3/2020     | 8/16/2020          |
-| 15   | sudheera.chitipolu@gmail.com   | *************   | Sri_Sudheera      | 6/19/2020    | 8/16/2020          |
+| 15   | srisudheera.chitipolu@gmail.com   | *************   | Sri_Sudheera      | 6/19/2020    | 8/16/2020          |
 | 16   | swaroopreddy.g@gmail.com       | ************    | Swaroop_Reddy     | 5/31/2020    | 8/16/2020          |
 | 17   | swaroopat@hotmail.com          | ************    | Swaroopa_Reddy    | 5/5/2020     | 8/14/2020          |
 | 18   | kiran021997@gmail.com          | ***********     | Usha_Kiran        | 6/6/2020     | 8/15/2020          |
