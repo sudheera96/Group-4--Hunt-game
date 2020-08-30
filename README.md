@@ -323,5 +323,4 @@ We issue a final team score to each team and then we compare scores and finalize
   [RFP- Hunt Game](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
   
   
-  [Sudheera](https://github.com/sudheera96/GDP1-Module-1-Individual-1)
 
