@@ -24,6 +24,10 @@ Hunt game is the very responsive game app which can be played on any device like
 11.	Acts like a workout
 12.	Free marketing for University as users share across social media
 
+## Cons
+
+User must register into game with email ID.
+
 ## Administrator Roles in Application
 * Access to all information including app settings
 
