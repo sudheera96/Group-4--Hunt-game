@@ -32,7 +32,7 @@ After the First team meeting we have selected technology stack. We have decided 
 
 ## Half-Day3 of the project(4 hours)
 
-made some changes in Jira user stories after discussion with client.
+Made some changes in Jira user stories after discussion with client.
 
 - [Deleted User roles in Jira to change the roles](https://github.com/sudheera96/Group-4--Hunt-game/commit/bbf435d24e168c789d9626437d8720e8202c777b)
 
