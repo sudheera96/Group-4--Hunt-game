@@ -61,5 +61,15 @@ Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/35ac6d18730dabb434
 ![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a
 
-
+## Half Day 3 - 4 hours (1 hour class + 3 hour) 
+### * Started developing the login page: The developed web page can be used to attract the client.
+* Added Login page UI :
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b
+* Changed the NWMSU brand logo with some edits: 
+![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7d0d9f33271c8d808ea63af79df8fcf499dc7506
+* Completed the Login Page design:
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a
+* Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved.
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e
 
