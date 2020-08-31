@@ -1,13 +1,14 @@
-# 1.Attendance
-### 08/21/2020
- * 
-### 08/24/2020
+# Attendance
 
-### 08/26/2020
+| Class Dates | Attended |
+|----------|-------------|
+| 08/19/2020 | Zoom Meeting |
+| 08/21/2020 | In-Person |
+| 08/24/2020 | Work from Home |
+| 08/26/2020 | In-Person |
+| 08/28/2020 | Worked from Home |
 
-### 08/28/2020
-
-### Half-Day 1 
+#### Half-Day 1 
 
 * [Add ER Diagram](https://github.com/sudheera96/Group-4--Hunt-game/commit/441fe276fcb3b7f61caebfe24a78512e7c4cba42)
 
