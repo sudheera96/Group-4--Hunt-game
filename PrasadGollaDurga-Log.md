@@ -4,17 +4,17 @@
 * August 21 (Friday) - In-Person 
 * August 24 (Monday) - In-Person
 * August 26 (Wednesday) - In-Person
-* August 28 (Friday) - Remote
+* August 28 (Friday) - Remote  <br>  <br> 
 
-## Half Day 1 - 4 hours (1 hour class + 3 hour) 
+## 2. Half Day 1 - 4 hours (1 hour class + 3 hour) 
 * We discussed about the class GDP 1, on things that we must do in the class GDP1.
 * Had a discussion on who shuold be the group leader, since the absence of Sai.
 * Discussed about the Agenda and work involved in the project.
 * Shared ideas on how to calculate points, should a user compulsarly be a player or not, how to increase the accuracy of the loaction.
 * Discussed on the positions on the group memnbers.
-* A Git-Hub repository was created by our group leader and everyone accpeted the requests.
+* A Git-Hub repository was created by our group leader and everyone accpeted the requests.  <br>  <br>
 
-## Half Day 2 -  6 hours (1 hour class + 5 hour)
+## 3. Half Day 2 -  6 hours (1 hour class + 5 hour)
 * I started designing the UI 
 * I designed some logos for the Game :
 * * Added Profile Icon: <br> <br>
@@ -65,9 +65,9 @@ Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/dcfd8aa5232
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/35ac6d18730dabb4340544d4a436f7d42a5a87bc <br> <br>
 * Added Compition Page image: <br> <br>
 ![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png) <br>
-Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a <br> <br>
+Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a <br> <br> <br>
 
-## Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
+## 4. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
 ### * Started developing the login page: The developed web page can be used to attract the client. <br>
 * Added Login page UI : <br> <br>
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b <br> <br>
