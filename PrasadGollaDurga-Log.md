@@ -14,3 +14,52 @@
 * Discussed on the positions on the group memnbers.
 * A Git-Hub repository was created by our group leader and everyone accpeted the requests.
 
+## Half Day 2 -  6 hours (1 hour class + 5 hour)
+* I started designing the UI 
+* I designed some logos for the Game :
+* * Added Profile, Loginform and Login-Page:
+![Profile://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/profile.png)
+![Login Formhttps://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginform.png)
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginpage.png)
+* * Added team icon, quest icon, nwmsu logo and compition logo:
+![Team Icon](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/team icon.png)
+![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/quest.png)
+![nwmsulogo](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png)
+![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/com.png)
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/2nd.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148
+* Added Team Page Image:
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/4d873f4124b57cc4ac4240ac17da7d044093e802
+* Added Quest Page Image:
+* * Quest Page 1 Image:
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png)
+* * Quest Page 2 Image:
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png)
+* * Added Location Page Image:
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/06bffbc173d92cb68463a39e4df76ba2751398ac
+* Fixed error - Image was not displayed in the hosted page.
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b7ab0d6dbe5486e421c8f985a5e5a6aef313c5bf
+* Fixed erros - Images and some data where not being displayed in the disired format.
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b87ab39c16d66c4080785fb5f7463b32ea344c3f
+* Added Team Page Image and cleared some erros
+* * Team Page design:
+![Team Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/01bdbf7c8164eae550eddfb7d15e4946db8696b1
+* Updated the Quest Page and cleared errors: The Images were not being displayed in the hosted site.
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/091052ed5b8f3229d198628ef3012b07905118e2
+* Removed errors: Cleared a simple error, which made the page look the desired way.
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/dcfd8aa52322aeafd63116812e2b10e3a99eee76
+* Added Existing Quest page image and Add Location Page image:
+* * Existing Quest page Image-
+![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png)
+* * Add Location Page image-
+![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/35ac6d18730dabb4340544d4a436f7d42a5a87bc
+* Added Compition Page image:
+![team page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
+Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a
+
+
+
