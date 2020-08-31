@@ -1,6 +1,6 @@
 
 # Module 1: Individual 1
- I Sai Krishna Emmadishetty of group 4 of project Hunt Game, Clients Dr. Denise Case and Dr. Charles Hoot.
+ I Sai Krishna Emmadishetty of group 4 of project Hunt Game, Client Dr. Denise Case and consultant Dr. Charles Hoot.
 
 # Attendance
  Friday August 21 (Zoom)
