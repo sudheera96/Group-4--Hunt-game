@@ -25,14 +25,14 @@
 ![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginpage.png)
 * * Added Team icon image: <br>
 ![Team Icon](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/team%20icon.png)
-* * Added Quest Icon image:
+* * Added Quest Icon image: <br>
 ![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/quest.png)
 * * Added NWMSU Brand Logo Image:
 ![nwmsulogo](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png)
-* * Added Compitition page :
-![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/com.png)
-*
-![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/2nd.png)
+* * Added Compitition Icon and Home Page Image : <br>
+![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/com.png) <br>
+![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/2nd%20.png) <br>
+
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148
 * Added Team Page Image:
 ![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/teampage.png)
@@ -72,7 +72,7 @@ Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef26
 * Added Login page UI :
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b
 * Changed the NWMSU brand logo with some edits: 
-![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png.png)
+![NWMSU LOGO](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png)
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7d0d9f33271c8d808ea63af79df8fcf499dc7506
 * Completed the Login Page design:
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a
