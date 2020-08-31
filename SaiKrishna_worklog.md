@@ -9,7 +9,7 @@
 
  Wednesday August 26 (in-person)
 
-* on the first day we are selected as group randomley and assigned as project Hunt Game then our team has planned a meeting how to approach  the project. next step we did is
+* on the first day we are selected as group randomly and assigned as project Hunt Game then our team has planned a meeting how to approach  the project. next step we did is
 github repo was created by one of our team.and i was accepted to it and started working on it.
 
 # Half Day 1
