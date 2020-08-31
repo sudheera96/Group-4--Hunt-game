@@ -18,7 +18,7 @@ github repo was created by one of our team.and i was accepted to it and started 
  2. Accepted the github rep link. and started working on it.
  * https://github.com/sudheera96/Group-4--Hunt-game 
 
- 3.And we divided roles according to our interest and added to github repo.
+ 3. And we divided roles according to our interest and added to github repo.
 
  * https://github.com/sudheera96/Group-4--Hunt-game/commit/933df921e51a871b70d1ad575981746d0afb2d49
  * https://github.com/sudheera96/Group-4--Hunt-game/commit/1d70619abbbb8af3619a5e1228076db18376c37e
