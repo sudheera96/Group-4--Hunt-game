@@ -3,8 +3,10 @@
  I Sai Krishna Emmadishetty of group 4 of project Hunt Game, Clients Dr. Denise Case and Dr. Charles Hoot.
 
 # Attendance
- Friday August 21 ( zoom) 
- Monday August 24 (zoom)
+ Friday August 21 (Zoom)
+
+ Monday August 24 (Zoom)
+
  Wednesday August 26 (in-person)
 
 * on the first day we are selected as group randomley and assigned as project Hunt Game then our team has planned a meeting how to approach  the project. next step we did is
