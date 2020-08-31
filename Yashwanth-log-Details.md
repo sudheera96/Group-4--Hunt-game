@@ -34,8 +34,6 @@ After the First team meeting we have selected technology stack. We have decided 
 
 made some changes in Jira user stories after discussion with client.
 
-- [Fixed errors regarding schedule management in git hub while uploading](https://github.com/sudheera96/Group-4--Hunt-game/commit/46a0690724801fbfb5bd7e840eee8938ba9aff76)
-
 - [Deleted User roles in Jira to change the roles](https://github.com/sudheera96/Group-4--Hunt-game/commit/bbf435d24e168c789d9626437d8720e8202c777b)
 
 - [Updated user roles in Jira](https://github.com/sudheera96/Group-4--Hunt-game/commit/b7e59a7f039ebbf2e3eda2ac83959ae96bea633b)
