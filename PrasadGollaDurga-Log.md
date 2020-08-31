@@ -1,12 +1,12 @@
 # Module 1 - Individual - GDP 1 <br>
-## 1. Attendance:
+## Attendance:
 * August 19 (Wednesday) - Remote (Zoom Session)
 * August 21 (Friday) - In-Person 
 * August 24 (Monday) - In-Person
 * August 26 (Wednesday) - In-Person
 * August 28 (Friday) - Remote  <br>  <br> 
 
-## 2. Half Day 1 - 4 hours (1 hour class + 3 hour) 
+## 1. Half Day 1 - 4 hours (1 hour class + 3 hour) 
 * We discussed about the class GDP 1, on things that we must do in the class GDP1.
 * Had a discussion on who shuold be the group leader, since the absence of Sai.
 * Discussed about the Agenda and work involved in the project.
@@ -14,7 +14,7 @@
 * Discussed on the positions on the group memnbers.
 * A Git-Hub repository was created by our group leader and everyone accpeted the requests.  <br>  <br>
 
-## 3. Half Day 2 -  6 hours (1 hour class + 5 hour)
+## 2. Half Day 2 -  6 hours (1 hour class + 5 hour)
 * I started designing the UI of the game.
 * I designed some logos for the Game : <br>
 * * Added Profile Icon:
@@ -64,7 +64,7 @@
 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a <br> <br> <br>
 
-## 4. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
+## 3. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
 * Started developing the login page: The developed web page can be used to attract the client. <br>
 * Added Login page UI :
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b <br> <br>
@@ -75,4 +75,6 @@
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a <br> <br>
 * Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved. 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
+* Sent an Email to the clients about the client metting on Wednesday.
+![Email Invitation](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Screenshot%20(18).png).
 
