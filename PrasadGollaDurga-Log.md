@@ -43,7 +43,7 @@
 * * Added Location Page Image.
 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/06bffbc173d92cb68463a39e4df76ba2751398ac <br> <br>
-* Fixed error - Image was not displayed in the hosted page. <br>
+* Fixed error - Image was not displayed in the hosted page. 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b7ab0d6dbe5486e421c8f985a5e5a6aef313c5bf <br> <br>
 * Fixed erros - Images and some data where not being displayed in the disired format. <br> 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b87ab39c16d66c4080785fb5f7463b32ea344c3f <br> <br>
@@ -60,19 +60,19 @@
 * * Added Location Page image.
 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/35ac6d18730dabb4340544d4a436f7d42a5a87bc <br> <br>
-* Added Compition Page image: <br>
+* Added Compition Page image: 
 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a <br> <br> <br>
 
 ## 4. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
 * Started developing the login page: The developed web page can be used to attract the client. <br>
-* Added Login page UI : <br>
+* Added Login page UI :
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b <br> <br>
-* Changed the NWMSU brand logo with some edits:  <br>
+* Changed the NWMSU brand logo with some edits:  
 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7d0d9f33271c8d808ea63af79df8fcf499dc7506 <br> <br>
-* Completed the Login Page design: <br>
+* Completed the Login Page design:
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a <br> <br>
-* Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved. <br>
-#### * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
+* Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved. 
+* Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
 
