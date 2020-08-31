@@ -7,7 +7,7 @@ First day of my project I have created Jira account and added the other team mem
 On the first day of meeting,
 We have discussed about the user roles, various types of technologies, scheduling the work. 
 
-Half-Day1 of the project(4 hours)
+## Half-Day1 of the project(4 hours)
 
 - [Hosted Jira project Link](https://github.com/sudheera96/Group-4--Hunt-game/commit/f2515a6b9cf72237754b400e6718a13cfabbdc56)
 
@@ -15,7 +15,9 @@ Half-Day1 of the project(4 hours)
 
 - [Added screenshots of User stories in Jira](https://github.com/sudheera96/Group-4--Hunt-game/commit/bd309ca3feb38ba2ba73bd05f989a3e64810c111)
 
-Half-Day2 I have added Sub tasks in Jira and assigned them to the each team members. Created 3 sprints plan after discussing with team members.(4 hours)
+## Half-Day2 of the project(4 hours)
+
+I have added Sub tasks in Jira and assigned them to the each team members. Created 3 sprints plan after discussing with team members.
 
 After the First team meeting we have selected technology stack. We have decided to do with HTML,CSS,Java Script,Node-JS,Git-Hub,Mongo DB,VS Code,Markdown.
 
@@ -28,7 +30,9 @@ After the First team meeting we have selected technology stack. We have decided 
 
 - [Added Subtasks in Jira](https://github.com/sudheera96/Group-4--Hunt-game/commit/f10631cb08c6d2864bb6f1cefe008ef16e56dec5)
 
-Half-Day3 made some changes in Jira user stories after discussion with client.(4 hours)
+## Half-Day3 of the project(4 hours)
+
+made some changes in Jira user stories after discussion with client.
 
 - [Fixed errors regarding schedule management in git hub while uploading](https://github.com/sudheera96/Group-4--Hunt-game/commit/46a0690724801fbfb5bd7e840eee8938ba9aff76)
 
