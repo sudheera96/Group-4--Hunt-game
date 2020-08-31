@@ -32,18 +32,18 @@ JIRA TASKS AND we discussed about the on which technologies are good to develop 
 1. According to meeting on the half day 2. I had a clear approach about my task which was schedule managment.
 2. As per  work Breakdown Structure categories created we started working on initating as discussion in the meeting . I came to an approach is how much time is required
 to each member respective to their roles and hours are allocted as per sprint wise in a week.
-3. https://github.com/sudheera96/Group-4--Hunt-game/commit/7a2e923a768bf0aa17aaaad3205bb371c24d5109---added---file
+3. https://github.com/sudheera96/Group-4--Hunt-game/commit/7a2e923a768bf0aa17aaaad3205bb371c24d5109
   
-  https://github.com/sudheera96/Group-4--Hunt-game/commit/3222089c3d1dc9bb824cbd6b2b02c54a0d5bc101----updated.
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/3222089c3d1dc9bb824cbd6b2b02c54a0d5bc101
 
-  https://github.com/sudheera96/Group-4--Hunt-game/commit/260a3baded19b8e94e7c1bcff99c005a3a912b31 ------pic 
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/260a3baded19b8e94e7c1bcff99c005a3a912b31
   
 4. I had a meeting with swaroop and we discussed about the schedule management and cost estimate. we finalized how much does it cost for each member of team
  to whole project to work according to sprint wise weeks. 
  
- https://github.com/sudheera96/Group-4--Hunt-game/commit/f2966ab9c273cb0828405def9dc21d2d2fa6987b-----normal
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/f2966ab9c273cb0828405def9dc21d2d2fa6987b
 
-  https://github.com/sudheera96/Group-4--Hunt-game/commit/56735b586bb8d70e8407013eb27c1126f5784b09-----pic
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/56735b586bb8d70e8407013eb27c1126f5784b09
 
 
 
