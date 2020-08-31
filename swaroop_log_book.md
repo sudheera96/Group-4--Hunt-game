@@ -31,7 +31,7 @@ Questions and answers discussed:
    Ans: He created a rough ER model for proposal and also created a smaple data file.
    Like we discussed the everyone individual tasks and noted the status of every individual of about 1hr.
    
-   ## Half Day-3
+ ## Half Day-3
    
 5. On the Third i was working on Cost estimate and started revision of the draft after second meeting. And udated the file to our repo to get ready for the proposal.
    I also worked on the Schedule management with sai Krishna. 
