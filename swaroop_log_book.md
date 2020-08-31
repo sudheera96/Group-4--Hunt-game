@@ -19,10 +19,10 @@ Ans: We discussed among ourselves and assigned roles like Project manager, Team 
 Ans: We discussed among ourselves and team member voluntarily took individual parts of Proposal document like Cost management, Schedule management, Jira tasks, Data base tasks, User Interface tasks etc.
 
 * Added proposal Document Data
-  https://github.com/sudheera96/Group-4--Hunt-game/commit/bb203bd44aa63f22a29f8a5b19a5b3b1f74b196a
+https://github.com/sudheera96/Group-4--Hunt-game/commit/bb203bd44aa63f22a29f8a5b19a5b3b1f74b196a
   
 * Edited proposal Document
-  https://github.com/sudheera96/Group-4--Hunt-game/commit/ac7cc327c278373bde9dedcf636bfa7af55e52f4
+https://github.com/sudheera96/Group-4--Hunt-game/commit/ac7cc327c278373bde9dedcf636bfa7af55e52f4
 
 ## Half Day-2
 
@@ -40,18 +40,18 @@ Questions and answers discussed:
    I also worked on the Schedule management with sai Krishna. 
    
    * Added costEstimation file 
-     https://github.com/sudheera96/Group-4--Hunt-game/commit/a9c72006cd4016f0fec71f57465c7b11dab280ce
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/a9c72006cd4016f0fec71f57465c7b11dab280ce
      
    * updated Schedule management
-     https://github.com/sudheera96/Group-4--Hunt-game/commit/2186b55605cf0ced2492d6938a780528ae2911c0
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/2186b55605cf0ced2492d6938a780528ae2911c0
      
 6. And i have also updated the screenshots of cost estimation draft file.
 
    * Screenshots of cost file 
-     https://github.com/sudheera96/Group-4--Hunt-game/commit/34b13484391e0f659e8c1328e5171c8d44109ac0
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/34b13484391e0f659e8c1328e5171c8d44109ac0
    
    * Meeting Document
-     https://github.com/sudheera96/Group-4--Hunt-game/commit/30e10b92c3157ae61137144dee33720a854dcf7c
+   https://github.com/sudheera96/Group-4--Hunt-game/commit/30e10b92c3157ae61137144dee33720a854dcf7c
    
    
     
