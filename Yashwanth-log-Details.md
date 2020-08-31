@@ -1,6 +1,6 @@
 ## My Tasks
 Attendance :
- - Attended GDP1 class inperson on 21st and 26th of August and attended zoom sessions on 28th.
+ - Attended GDP1 class inperson on 21st and 26th of August and attended zoom sessions on 19th, 28th.
  
 First day of my project I have created Jira account and added the other team members into the project created in Jira "Group-4-RFP-Hunt-Game". Our group members had a meeting on day one how to proceed further.
 
