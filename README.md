@@ -31,9 +31,8 @@ Hunt game is the very responsive game app which can be played on any device like
 
 ## Client
 * Dr. Denise Case 
-* Dr. Charles Hoot
 
-Both Dr. Denise Case and Dr. Charles Hoot are the Assistant Professor of Computer Science, Northwest Missouri State University.
+Both Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missouri State University.
 
 ## Administrator Roles in Application
 * Access to all information including app settings
