@@ -15,16 +15,16 @@ github repo was created by one of our team.and i was accepted to it and started 
 # Half Day 1
 1. on the first day of the meeting we had discussed about the project and we looked into sample examples which are related to project and finally we came to one approach for how to bulid a approach with good planning.
 
-2.Accepted the github rep link. and started working on it.
-https://github.com/sudheera96/Group-4--Hunt-game 
+ 2. Accepted the github rep link. and started working on it.
+ * https://github.com/sudheera96/Group-4--Hunt-game 
 
-3.And we divided roles according to our interest and added to github repo.
+ 3.And we divided roles according to our interest and added to github repo.
 
-* https://github.com/sudheera96/Group-4--Hunt-game/commit/933df921e51a871b70d1ad575981746d0afb2d49
-* https://github.com/sudheera96/Group-4--Hunt-game/commit/1d70619abbbb8af3619a5e1228076db18376c37e
-* https://github.com/sudheera96/Group-4--Hunt-game/commit/63f054bbd622c1c4b5045770e6c34faf21d6d1c8
+ * https://github.com/sudheera96/Group-4--Hunt-game/commit/933df921e51a871b70d1ad575981746d0afb2d49
+ * https://github.com/sudheera96/Group-4--Hunt-game/commit/1d70619abbbb8af3619a5e1228076db18376c37e
+ * https://github.com/sudheera96/Group-4--Hunt-game/commit/63f054bbd622c1c4b5045770e6c34faf21d6d1c8
 
-4. Tasks are assigned to according to each member in the Jira. we started accepting into Jira and then we had meeting with respective tasks assigned to it and finaly we had
+ 4. Tasks are assigned to according to each member in the Jira. we started accepting into Jira and then we had meeting with respective tasks assigned to it and finaly we had
 clear approach about the tasks and we had worked through it.
 
 # Half Day 2
