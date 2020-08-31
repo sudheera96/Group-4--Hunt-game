@@ -31,10 +31,10 @@
 * * Added Compitition Icon and Home Page Image :
 
 
-* Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148 <br> <br>
+* Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148 <br>
 * Added Team Page Image: 
 
-- Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/4d873f4124b57cc4ac4240ac17da7d044093e802  <br> <br>
+- Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/4d873f4124b57cc4ac4240ac17da7d044093e802  <br> 
 * Added Quest Page Images : <br>
 * * Added Quest Page 1 Image.
 
