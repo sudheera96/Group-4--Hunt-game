@@ -18,29 +18,29 @@
 * I started designing the UI 
 * I designed some logos for the Game :
 * * Added Profile Icon: <br> 
-* * Added Loginform Image: <br> <br>
+* * Added Loginform Image:
 
-* * Added Login-Page: <br> <br>
+* * Added Login-Page:
 
-* * Added Team icon image: <br> <br>
+* * Added Team icon image:
 
-* * Added Quest Icon image: <br> <br>
+* * Added Quest Icon image: 
 
-* * Added NWMSU Brand Logo Image: <br> <br>
+* * Added NWMSU Brand Logo Image: 
 
-* * Added Compitition Icon and Home Page Image : <br> <br>
+* * Added Compitition Icon and Home Page Image :
 
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148 <br> <br>
-* Added Team Page Image: <br> <br>
+* Added Team Page Image: 
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/4d873f4124b57cc4ac4240ac17da7d044093e802  <br> <br>
-* Added Quest Page Image: <br> <br>
-* * Quest Page 1 Image: <br> <br>
+* Added Quest Page Image: <br>
+* * Quest Page 1 Image:
 
-* * Quest Page 2 Image: <br> <br>
+* * Quest Page 2 Image:
 
-* * Added Location Page Image: <br> <br>
+* * Added Location Page Image:
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/06bffbc173d92cb68463a39e4df76ba2751398ac <br> <br>
 * Fixed error - Image was not displayed in the hosted page. <br>
@@ -48,7 +48,7 @@ Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b7ab0d6dbe5
 * Fixed erros - Images and some data where not being displayed in the disired format. <br> 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/b87ab39c16d66c4080785fb5f7463b32ea344c3f <br> <br>
 * Added Team Page Image and cleared some erros: <br> 
-* * Team Page design: <br> <br>
+* * Team Page design: 
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/01bdbf7c8164eae550eddfb7d15e4946db8696b1 <br> <br>
 * Updated the Quest Page and cleared errors: The Images were not being displayed in the hosted site. <br>
@@ -56,21 +56,21 @@ Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/091052ed5b8
 * Removed errors: Cleared a simple error, which made the page look the desired way. <br>
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/dcfd8aa52322aeafd63116812e2b10e3a99eee76 <br> <br>
 * Added Existing Quest page image and Add Location Page image: <br>
-* * Existing Quest page Image- <br> <br>
+* * Existing Quest page Image.
 
-* * Add Location Page image- <br> <br>
+* * Add Location Page image.
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/35ac6d18730dabb4340544d4a436f7d42a5a87bc <br> <br>
-* Added Compition Page image: <br> <br>
+* Added Compition Page image: <br>
 
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/513c780af61562ef2684d386a0919af9885a3e2a <br> <br> <br>
 
 ## 4. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
 ### * Started developing the login page: The developed web page can be used to attract the client. <br>
-* Added Login page UI : <br> <br>
+* Added Login page UI : <br>
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/a783ce2ada059b8da487f959bbbd0d056a84be8b <br> <br>
-* Changed the NWMSU brand logo with some edits:  <br> <br>
-![NWMSU LOGO](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png) <br> <br>
+* Changed the NWMSU brand logo with some edits:  <br>
+
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7d0d9f33271c8d808ea63af79df8fcf499dc7506 <br> <br>
 * Completed the Login Page design: <br>
 Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a <br> <br>
