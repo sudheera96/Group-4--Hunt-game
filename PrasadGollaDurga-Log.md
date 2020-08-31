@@ -74,5 +74,5 @@
 * Completed the Login Page design: <br>
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/be26ed16a78940f49970a119265118bdf709b11a <br> <br>
 * Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved. <br>
-* Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
+#### * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
 
