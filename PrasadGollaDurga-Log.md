@@ -17,15 +17,21 @@
 ## Half Day 2 -  6 hours (1 hour class + 5 hour)
 * I started designing the UI 
 * I designed some logos for the Game :
-* * Added Profile, Loginform and Login-Page:
-![Profile://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/profile.png)
-![Login Formhttps://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginform.png)
+* * Added Profile Icon:
+![Profile](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/profile.png)
+* * Added Loginform Image: <br>
+![Login Form](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginform.png)
+* * Added Login-Page:
 ![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/loginpage.png)
-* * Added team icon, quest icon, nwmsu logo and compition logo:
-![Team Icon](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/team icon.png)
+* * Added Team icon image: <br>
+![Team Icon](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/team%20icon.png)
+* * Added Quest Icon image:
 ![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/quest.png)
+* * Added NWMSU Brand Logo Image:
 ![nwmsulogo](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/northwest-missouri-state-bearcats-logo.png)
+* * Added Compitition page :
 ![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/com.png)
+*
 ![Login Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/2nd.png)
 Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/8bd3be9dc9cf97702f6956c16c82b21f8107f148
 * Added Team Page Image:
