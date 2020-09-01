@@ -92,6 +92,8 @@ For Instance, we have 20 users who will be able to login with their unique emfor
 
 There is a competition with ID CI4011 in which 19 players have formed into 4 teams with 5 members in three teams and 4 members in one team. Two quests have used 4 locations each to form a hunt and based on the time taken by the teams, the teams have been scored accordingly.
 
+We have tested a simulation using sample data. We introduced only one competition which can access two quests created by two users which are madeup using the locations identified. We thought of introducing points system to the location so that points can be issued to teams based on the locations covered instead of other parameters.
+
 We issue a final team score to each team and then we compare scores and finalize a winner.
 
 ### User entity with sample data
