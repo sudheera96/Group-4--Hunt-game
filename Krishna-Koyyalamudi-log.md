@@ -5,7 +5,7 @@
 |----------|-------------|
 | 08/19/2020 | Zoom Meeting |
 | 08/21/2020 | In-Person |
-| 08/24/2020 | Work from Home |
+| 08/24/2020 | Worked from Home |
 | 08/26/2020 | In-Person |
 | 08/28/2020 | Worked from Home |
 
