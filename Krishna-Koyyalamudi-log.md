@@ -22,7 +22,7 @@
 
 ### Half-Day 2
 
-* [Add Sample data to MS Excel filey](https://github.com/sudheera96/Group-4--Hunt-game/commit/0da226f6b56726c9e6bd615caca5dc9e3a7d8ca1) :
+* [Add Sample data to MS Excel file](https://github.com/sudheera96/Group-4--Hunt-game/commit/0da226f6b56726c9e6bd615caca5dc9e3a7d8ca1) :
   Added sample data to the Excel file, to show the locations, compitition, users , etc.
 
 * [Add e-form RFP to the Repo and fix mistakes](https://github.com/sudheera96/Group-4--Hunt-game/commit/50e0652770684686234e1f5ec8fe797bc68e71dc) :
