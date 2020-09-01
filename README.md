@@ -273,10 +273,11 @@ We issue a final team score to each team and then we compare scores and finalize
 
 ## Issues:
 1. Can someone play without registering?
-1. Can a user be a member of more than one team?
-1. Will there be a leader board?
-1. How will clues be given?
-1. How do you specify target area?
+* No, If we let users play without getting registered in the game then some players might misuse this option. They will get into a team they want to make them lose, choose not to play, and make the team lose or the creator of the quest can only login as a guest and will finish the quest real quick and win the competition. So to avoid these problems, we choose to have users who are registered. 
+2. Can a user be a member of more than one team?
+3. Will there be a leader board?
+4. How will clues be given?
+5. How do you specify target area?
 
 ## JIRA Link to Project
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
