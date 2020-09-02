@@ -267,9 +267,12 @@ We issue a final team score to each team and then we compare scores and finalize
 ![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png) <br>
 * The user who wish to join a Competition will have to click the Competition Icon and select the Existing Competitions.
 * If the user wants to create a new compition, the user should click create new competition button. <br>
-![](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/compitionpage1.png) <br>
+
+
+![competition](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Comprtionnext.png) <br>
+* When the user clicks on the existing competitions, then he will be able to join or leave the competition.
 * Once the user selects the create new competition, the user will be directed to the Quest page and continue as listed in the above. <br>
-![game](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/game.png) <br>
+![game](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/gameUI.png) <br>
 * When the user clicks on the competition, Quests will be displayed. when clicked on the Quests, maps will open with the clue in the bottom.
 
 
