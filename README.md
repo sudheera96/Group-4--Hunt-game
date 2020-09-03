@@ -330,6 +330,23 @@ We issue a final team score to each team and then we compare scores and finalize
    Most accessible simple format webpage to build most versatile documentation.
    
   ## Schedule Management
+  
+  | Work Breakdown Structure Categories | Start Date| End Date | Responsible         | Krishna | Swaroop	| Yashwanth	Prasad|	Sudheera|	Sai Krishna|	Total Hrs|
+
+|------|--------------------------------|------ --|------------|--------------|------|----------|---------|----------|--------------------|
+| Initiating    |    8/24/2020      | 8/31/2020     | Team     | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+| Planning  | 8/31/2020 | 9/9/2020    | Team    |  2    | 2    | 2    | 2    | 2    | 2    | 12    |       
+| 3. Designing   | 9/9/2020            | 11/31/2020   | Team    | 2    | 2    | 2    | 2    | 2    | 2    | 12    |         
+| 3.1 UI Design  | 9/9/2020       | 9/15/2020 | Prasad   | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+|  3.2 Synthesis of Design   | 9/16/2020          | 10/15/2020    | Team       | 2    | 2    | 2    | 2    | 2    | 2    | 12     |
+| 3.3 Implementation Iteration   | 10/16/2020  | 11/4/2020      | Swaroop     | 2    | 2    | 2    | 2    | 2    | 2    | 12            |
+|   3.4 Early release and Contract finalization   | 11/5/2020     | 11/31/2020      | Krishna   | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+| 4. Implementation   | 1/20/2021       | 3/28/2021    | Team         | 2    | 2    | 2    | 2    | 2    | 2    | 12   |
+| 4.1 Application Development    | 1/20/2021           | 2/5/2021      | Team    | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+|4.2 PWA Implementation| 2/6/2021 |2/28/2021 | Yashwanth | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+|5. Monitoring and Controlling| 4/3/2021 |4/17/2021 | Sai Krishna | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+|6. Closing| 4/18/2021 | 5/1/2021 | Sudheera | 2    | 2    | 2    | 2    | 2    | 2    | 12    |
+
   [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
   
   ![Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
