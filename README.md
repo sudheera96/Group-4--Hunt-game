@@ -338,7 +338,7 @@ We issue a final team score to each team and then we compare scores and finalize
   ## Cost Estimate
   [link for Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/CostEstimate.xlsx)
   
-  ![Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225144.png)
+  ![Cost Estimate](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/CostEstimate.png)
 
  
   # Electronic Form RFP (Request For Proposal)
