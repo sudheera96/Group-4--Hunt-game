@@ -335,7 +335,7 @@ We issue a final team score to each team and then we compare scores and finalize
  
   [Link for Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx)
   
-  ![Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Annotation%202020-08-24%20225302.png)
+  ![Schedule Management](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Schedulemanagement.JPG)
   
    
   ## Cost Estimate
