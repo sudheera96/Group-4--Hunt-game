@@ -146,12 +146,14 @@ We issue a final team score to each team and then we compare scores and finalize
 
 ### Team entity with sample data
 
-| S.No | TeamID | Team Name          | Creator           | Date Created | Date last Edited |
-|------|--------|--------------------|-------------------|--------------|------------------|
-| 1    | 101    | Thunder Guys       | Prasad_GD         | 8/20/2020    | 8/24/2020        |
-| 2    | 102    | Mavericks          | Swaroop_Reddy     | 8/19/2020    | 8/20/2020        |
-| 3    | 103    | Sunrisers horizons | Shiva_Ramakrishna | 8/22/2020    | 8/23/2020        |
-| 4    | 104    | Barbies            | Chandana_Priya    | 08/192020    | 8/23/2020        |
+| S.No | TeamID | Team Name          | Creator              | Date Created | Date last Edited |
+|------|--------|--------------------|----------------------|--------------|------------------|
+| 1    | 101    | Thunder Guys       | Prasad_GD            | 8/20/2020    | 8/24/2020        |
+| 2    | 102    | Mavericks          | Swaroop_Reddy        | 8/19/2020    | 8/20/2020        |
+| 3    | 103    | Sunrisers horizons | Shiva_Ramakrishna    | 8/22/2020    | 8/23/2020        |
+| 4    | 104    | Barbies            | Chandana_Priya       | 08/19/2020   | 8/23/2020        |
+| 5	 | 105 	 | Hunters	          |Gopichand_Bandarupalli| 08/30/2020	| 8/31/2020        |
+
 
 ### Location entity with sample data
 
@@ -205,6 +207,11 @@ We issue a final team score to each team and then we compare scores and finalize
 | 17   | 101    | 12026    | 8/24/2020    | 8/24/2020            | X                    | x             |
 | 18   | 103    | 12027    | 8/24/2020    | 8/24/2020            | X                    | x             |
 | 19   | 102    | 12028    | 8/24/2020    | 8/24/2020            | X                    | x             |
+|20	 | 105	 | 12029	   | 8/30/2020	   | 8/31/2020            | X	                   |9/1/2020       |
+|21	 | 105	 | 12014	   | 8/30/2020	   | 8/31/2020            | X	                   |x              |
+|22	 | 105	 | 12015	   | 8/30/2020	   | 8/31/2020            | X	                   |9/1/2020       |
+|23	 | 105	 | 12016	   | 8/30/2020	   | 8/31/2020            | X	                   |x              |
+|24	 | 105	 | 12017	   | 8/30/2020	   | 8/31/2020            | X	                   |x              |
 
 ### QuestLocation Mapping entity with sample data
 
@@ -289,13 +296,13 @@ We issue a final team score to each team and then we compare scores and finalize
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
 
 ### JIRA Sprint 1
-![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-01.png?raw=true)
+![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT1.png?raw=true)
 
 ### JIRA Sprint 2
-![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
+![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-2.png?raw=true)
 
 ### JIRA Sprint 3
-![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-03.png?raw=true)
+![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
 
 ## Technology stack descriptions
  * HTML: 
