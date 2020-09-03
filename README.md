@@ -295,7 +295,7 @@ We issue a final team score to each team and then we compare scores and finalize
 ![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
 
 ### JIRA Sprint 3
-![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
+![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-03.png?raw=true)
 
 ## Technology stack descriptions
  * HTML: 
