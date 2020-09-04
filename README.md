@@ -35,7 +35,8 @@ Hunt game is the very responsive game app which can be played on any device like
 Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missouri State University.
 
 ## Administrator Roles in Application
-* Access to all information including app settings
+
+* [Access to all information including app settings](https://github.com/sudheera96/Group-4--Hunt-game/issues/2)
 
 ## User Roles in Application
 * Any user may choose to:
