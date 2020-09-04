@@ -298,13 +298,13 @@ We issue a final team score to each team and then we compare scores and finalize
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
 
 ### JIRA Sprint 1
-![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT1.png?raw=true)
+![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-01.png?raw=true)
 
 ### JIRA Sprint 2
-![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-2.png?raw=true)
+![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
 
 ### JIRA Sprint 3
-![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/JIRA_SPRINT-3.png?raw=true)
+![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-03.png?raw=true)
 
 ## Technology stack descriptions
  * HTML: 
