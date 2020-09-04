@@ -51,6 +51,7 @@ Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missou
    3. The captain provides a list of emails of invited members.
    4. A user can accept the team invite and become a team player or reject it.
    5. After three days, if not accepted, assume rejection.
+   6. Invite will be in the form of email to the registered email while creating an account.
    
 * Any user can choose to design a quest.
 
