@@ -122,27 +122,27 @@ We issue a final team score to each team and then we compare scores and finalize
 
 ### Player enity with sample data
 
-| S.No | PlayerID | Player NickName | Points to a User |
-|------|----------|-----------------|------------------|
-| 1    | 12010    | Jack            | 202              |
-| 2    | 12011    | Loser           | 512              |
-| 3    | 12012    | Joy             | 23               |
-| 4    | 12013    | Charles         | 987              |
-| 5    | 12014    | Shooter         | 98               |
-| 6    | 12015    | Hunter          | 465              |
-| 7    | 12016    | Krish           | 999              |
-| 8    | 12017    | Anna            | 1231             |
-| 9    | 12018    | GD              | 89               |
-| 10   | 12019    | Yash            | 5                |
-| 11   | 12020    | Gopi            | 636              |
-| 12   | 12021    | Alex            | 101              |
-| 13   | 12022    | Chainbreaker    | 473              |
-| 14   | 12023    | Kingkong        | 84               |
-| 15   | 12024    | Godzilla        | 31               |
-| 16   | 12025    | Hulk            | 9876             |
-| 17   | 12026    | Batman          | 56               |
-| 18   | 12027    | Deadpool        | 567              |
-| 19   | 12028    | Chainsmoker     | 56               |
+| S.No | PlayerID | Player NickName |
+|------|----------|-----------------|
+| 1    | 12010    | Jack            |
+| 2    | 12011    | Loser           |
+| 3    | 12012    | Joy             |
+| 4    | 12013    | Charles         |
+| 5    | 12014    | Shooter         |
+| 6    | 12015    | Hunter          |
+| 7    | 12016    | Krish           |
+| 8    | 12017    | Anna            |
+| 9    | 12018    | GD              |
+| 10   | 12019    | Yash            |
+| 11   | 12020    | Gopi            |
+| 12   | 12021    | Alex            |
+| 13   | 12022    | Chainbreaker    |
+| 14   | 12023    | Kingkong        |
+| 15   | 12024    | Godzilla        |
+| 16   | 12025    | Hulk            |
+| 17   | 12026    | Batman          |
+| 18   | 12027    | Deadpool        |
+| 19   | 12028    | Chainsmoker     |
 
 ### Team entity with sample data
 
