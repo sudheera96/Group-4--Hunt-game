@@ -122,7 +122,6 @@ We issue a final team score to each team and then we compare scores and finalize
 | 18   | kiran021997@gmail.com          | ***********     | Usha_Kiran        | 6/6/2020     | 8/15/2020          |
 | 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
 | 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
-| 21   | saikrish510@gmail.com          | ***********     | saikrish510       | 9/9/2020    | 9/16/2020          |
 
 ### Player enity with sample data
 
@@ -147,7 +146,6 @@ We issue a final team score to each team and then we compare scores and finalize
 | 17   | 12026    | Batman          |
 | 18   | 12027    | Deadpool        |
 | 19   | 12028    | Chainsmoker     |
-| 20   | 12029    | lion            |
 
 ### Team entity with sample data
 
@@ -295,9 +293,59 @@ We issue a final team score to each team and then we compare scores and finalize
 [JIRA LINK](https://group-4-hunt-game.atlassian.net/secure/RapidBoard.jspa?rapidView=1)
 
 ### JIRA Sprint 1
+
 ![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-01.png?raw=true)
 
+#### User Story 1
+
+As a User, a player can register to Hunt Game application with valid email address.
+
+#### Acceptance Criteria
+
+- User should have valid email ID 
+
+#### User Story 2
+
+As a User, the verification is successful then and user create a password
+
+#### Acceptance Criteria
+
+User should able to verify the mail sent to his/her mail ID.
+
+#### User Story 3
+
+As a User, after creating the password user should log in successfully 
+
+#### Acceptance Criteria
+
+User can able to change password after first log in.
+
+#### User Story 4
+
+As a user, schedule management planned for this game hunt application
+
+#### Acceptance Criteria
+
+Team manager should be able to schedule meetings and check whether work is going according to plan or not
+
+#### User Story 5
+
+As a user, risk analysis should be estimated
+
+#### Acceptance Criteria
+
+As a team, we have estimate the risk for creating this app. for example Market risk, User mobile location access
+
+#### User story 6
+
+As a User, admin will have all application settings
+
+#### Acceptance Criteria
+
+If user has admin access he can creat edit delet the quests,teams,locations and users in the application
+
 ### JIRA Sprint 2
+
 ![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
 
 ### JIRA Sprint 3
