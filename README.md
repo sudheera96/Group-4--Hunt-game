@@ -346,6 +346,54 @@ If user has admin access he can creat edit delet the quests,teams,locations and 
 
 ### JIRA Sprint 2
 
+#### User story 1
+
+As a user, a player can create team and serve as captain 
+
+#### Acceptance Criteria
+
+User can create a team and invite the players to join team or can accept invitation who reqested to join in team
+
+#### User story 2
+
+As a user, a player can request to join in multiple teams and should be accepted by team captain
+
+#### Acceptance Criteria
+
+A player can request to join in multiple teams
+
+#### User story 3
+
+As a user, if a team joins in the quest every user should get notification before starting of quest
+
+#### Acceptance Criteria
+
+User should get notificaton before the quest start time to alert the user
+
+#### User Story 4
+
+As a User, the player can have location coordinates along with clues  
+
+#### Acceptance Criteria
+
+When the quest started, if the user is participating in the quest he/she can have location coordinates along with clues
+
+#### User Story 5
+
+As a User, a player can create quest or participate in hunt game
+
+#### Acceptance Criteria
+
+A user can create a quest game or he can be participate as player but cannot do both.
+
+#### User Story 6
+
+As a User, a player can have limit time to crack the clue 
+
+#### Acceptance Criteria
+
+User who is participating in the quest will have limit time crack the quest
+
 ![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
 
 ### JIRA Sprint 3
