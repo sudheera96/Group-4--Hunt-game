@@ -99,3 +99,9 @@ https://github.com/sudheera96/GDP1-Module-1-Individual-1/blob/master/Scan%2004%2
  * Asked for resources to provide, for doing research on similar type of projects for estimating the risks
  
  ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(127).png)
+ 
+ * Created Subtasks in the JIRA for assigned story
+ 
+ ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(128).png)
+ 
+ 
