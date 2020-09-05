@@ -46,18 +46,17 @@
 
 ### Half-Day 1
 
-* [Add new data field to simplify points issuance](https://github.com/sudheera96/Group-4--Hunt-game/commit/c4fcf9ce6f12a2109e5793e4834a957c2d7cacb3)
-
+* [Add new data field to simplify points issuance](https://github.com/sudheera96/Group-4--Hunt-game/commit/c4fcf9ce6f12a2109e5793e4834a957c2d7cacb3) : More sample data is added to the existing data to include the suggestions given by our client and to remove some conflicting entries.
 ### Half-Day 2
 
-* [Update players entity sample data in markdown](https://github.com/sudheera96/Group-4--Hunt-game/commit/4bec804a3596f304f927cfc6816aacd683b55fdb)
+* [Update players entity sample data to resolve issue 7](https://github.com/sudheera96/Group-4--Hunt-game/commit/4bec804a3596f304f927cfc6816aacd683b55fdb) : There was an issue raised by the client that whether a player can be in multiple teams at once. This was explained through a comment and added some sample data to players entity to provide better understanding of the issue.
 
-* [Modified sample data in teamplayer entity to resolve issue 5](https://github.com/sudheera96/Group-4--Hunt-game/commit/18af5a36763af3755c076630be6032d48189b05b)
+* [Modified sample data in teamplayer entity to resolve issue 5](https://github.com/sudheera96/Group-4--Hunt-game/commit/18af5a36763af3755c076630be6032d48189b05b) : The client questioned the existence of some datafields, which may not be much useful and doesn't serve any purpose. So, I have just listed invite date in player entity and removed date last accessed.
 
 #### Half-Day 3
 
-* [Update Player entity by removing player points](https://github.com/sudheera96/Group-4--Hunt-game/commit/4ccca6cdd0384f686dbbbf9ef3d389f4a638f5e2)
+* [Update Player entity by removing player points to resolve issue 6](https://github.com/sudheera96/Group-4--Hunt-game/commit/4ccca6cdd0384f686dbbbf9ef3d389f4a638f5e2) : Our team thought of a different approach in awarding points in the competition by awarding points to individual players but the client raised an issue that, it might not be a better approch. So, I have removed the player points datafield and utilized a single datafield in team entity to award points to the whole team.
 
-* [Add costestimate spreadsheet](https://github.com/sudheera96/Group-4--Hunt-game/commit/528a9c6ed4de3730f6e5ccc22a0855065b305147)
+* [Add costestimate spreadsheet](https://github.com/sudheera96/Group-4--Hunt-game/commit/528a9c6ed4de3730f6e5ccc22a0855065b305147) : There was an imbalance in cost estimate as the team has allocated more hours to designing and a bit less to implementation. I have adjusted the hours assigned accordingly and uploaded the modified costestimate.
 
-* [Fix data & Formatting errors](https://github.com/sudheera96/Group-4--Hunt-game/commit/0047190ba798d913372d141717c156286b7bfc25)
+* [Fix data & Formatting errors](https://github.com/sudheera96/Group-4--Hunt-game/commit/0047190ba798d913372d141717c156286b7bfc25) : Fixed some formatting errors in client name and some other data.
