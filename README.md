@@ -346,6 +346,8 @@ If user has admin access he can creat edit delet the quests,teams,locations and 
 
 ### JIRA Sprint 2
 
+![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint2.png?raw=true)
+
 #### User story 1
 
 As a user, a player can create team and serve as captain 
@@ -394,9 +396,9 @@ As a User, a player can have limit time to crack the clue
 
 User who is participating in the quest will have limit time crack the quest
 
-![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
-
 ### JIRA Sprint 3
+
+![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint3.png?raw=true)
 
 #### User Story 1
 
@@ -446,7 +448,6 @@ As a team, we have to do Back end Development and Testing
 
 After the back end development, testing should be done using selenium with java.
 
-![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-03.png?raw=true)
 
 ## Technology stack descriptions
  * HTML: 
