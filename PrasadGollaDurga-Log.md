@@ -116,10 +116,12 @@
 * Removed the issues log from the ReadME file.(I did not know that we should close them, So I had made a note.)
 * Updated the User roles i.e. added how the invite will be sent from the game.
 * https://github.com/sudheera96/Group-4--Hunt-game/commit/780f6c41775ed4ba0a3dfc880bd587237d7f3abc
-*  <br> <br> <br>
+
 * Updated the UI and User roles as suggested by the Client.
 * https://github.com/sudheera96/Group-4--Hunt-game/commit/124e98dc1ff08b2c3534e7918aef178e53c1167b
-* 
-
+* Updated the ReadMe File with the roles of the user which are very important.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/cc9b41b96c741f8e045a96935e291d299c990aca
+* Closed all the Issues.
+*  <br> <br> <br>
 
 
