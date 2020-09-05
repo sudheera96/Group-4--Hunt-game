@@ -29,6 +29,7 @@ https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.x
 # Half Day 2
 
 1. we come across to know there are many issues which was raised by Dr.hoot. we started looking how to resolve the issues.
+
 2.we planned a group meeting regarding this issues. how to reslove the issues and how to overcome it. every one in our team expressed their ideas and finally we
 came to clear idea on how to reslove the issues.
  
