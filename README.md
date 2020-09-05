@@ -54,7 +54,7 @@ Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missou
    5. After three days, if not accepted, assume rejection.
    6. Invite will be in the form of email to the registered email while creating an account.
    
-* Any user can choose to design a quest.
+* Any user can choose to design a quest, but will not be able to create a new location.
 
    1. The user serves as designer of any quest they create.
    2. The designer provides a quest name.
@@ -71,9 +71,15 @@ Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missou
    4. The hunt master chooses an existing quest for the competion.
    5. The hunt master invites a list of teams to compete about a week before.
    
+   
    6. Each team captain can accept or reject the invitation.
    7. By 24 hours before the competition, if not accepted, assume rejection.
    8. Only the User with admin previlages will be allowed to add new locations.
+* Other Important Roles.
+   1. Developer team roles are not the same as user roles.
+   2. The user will be able to create competition, add locations, and create Quests. 
+   3. The developer will have complete rights on the application.
+   4. The user who creates the quest or competition or location will not be able to play as a player.
    
 
 
