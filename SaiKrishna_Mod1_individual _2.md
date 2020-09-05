@@ -24,7 +24,7 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/d18fe4fc9dc61a67bdd3b3ca
 
 4. updated the schdedule management as per user roles based on their work and updated the schedule management file.
     
-       https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx.
+https://github.com/sudheera96/Group-4--Hunt-game/blob/master/ScheduleMangement.xlsx.
        
 # Half Day 2
 
@@ -36,7 +36,8 @@ came to clear idea on how to reslove the issues.
  
 3.I was assigned to an issue which is does we need to have the administrator role. i was cleared idea what does the administor do. so explain in every details regarding
 to this issues and finally closed it. 
-     https://github.com/sudheera96/Group-4--Hunt-game/issues/2
+
+ https://github.com/sudheera96/Group-4--Hunt-game/issues/2
      
      
 # Half Day 3
@@ -53,6 +54,7 @@ given by Dr.case and Dr.hoot on the project.
  https://github.com/sudheera96/Group-4--Hunt-game/commit/f40a33e4a762a7e0819bb9275ecefe834c04a969
  
  https://github.com/sudheera96/Group-4--Hunt-game/commit/7cc03db5ab8755c3c45df43dedb12b4dd418d6db
+ 
  ![userstory](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/userstoryone.png)
  ![userstory](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/userstorytwo.png)
  
