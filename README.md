@@ -122,6 +122,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 18   | kiran021997@gmail.com          | ***********     | Usha_Kiran        | 6/6/2020     | 8/15/2020          |
 | 19   | yashwanthrocks@gmail.com       | **********      | Venkata_Yashwanth | 3/6/2020     | 8/16/2020          |
 | 20   | vishal041197@outlook.com       | ***********     | Vishal_Reddy      | 12/5/2020    | 8/15/2020          |
+| 21   | saikrish510@gmail.com          | ***********     | saikrish510       | 9/9/2020    | 9/16/2020          |
 
 ### Player enity with sample data
 
