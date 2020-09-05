@@ -104,4 +104,8 @@ https://github.com/sudheera96/GDP1-Module-1-Individual-1/blob/master/Scan%2004%2
  
  ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(128).png)
  
+ * created subtask and done the subtasks for database story, also commented depending upon feedback for todays presentation from the client.
+ 
+ ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(129).png)
+ 
  
