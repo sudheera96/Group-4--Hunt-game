@@ -294,7 +294,7 @@ We issue a final team score to each team and then we compare scores and finalize
 
 ### JIRA Sprint 1
 
-![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-01.png?raw=true)
+![JIRA SPRINT 1](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint1.png?raw=true)
 
 #### User Story 1
 
