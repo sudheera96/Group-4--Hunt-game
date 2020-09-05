@@ -89,3 +89,13 @@ https://github.com/sudheera96/GDP1-Module-1-Individual-1/blob/master/Scan%2004%2
  * Provided thank you note for appreciating our repo by the other team memebrs.
  
  ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(125).png)
+ 
+ * After, clear updations of user stories, in JIRA, I taken charger to look in to stories and provide comments to them for further plans.
+ 
+ - like if the user, won't provide valid email address while registration, will there be any notification popup
+ 
+ ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(126).png)
+ 
+ * Asked for resources to provide, for doing research on similar type of projects for estimating the risks
+ 
+ ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(127).png)
