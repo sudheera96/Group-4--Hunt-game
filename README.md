@@ -59,6 +59,7 @@ Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missou
    1. The user serves as designer of any quest they create.
    2. The designer provides a quest name.
    3. The designer provides a list of locations for the quest.
+   4. Admin is the designer of locations.
    4. For each location, the designer provides a location number.
    5. For each location, the designer provides location coordinates (either by entering numbers OR based on a 10' x 10' square around their current location)
    
@@ -69,8 +70,11 @@ Dr. Denise Case is the Assistant Professor of Computer Science, Northwest Missou
    3. The hunt master specifies the end date and time for the competion.
    4. The hunt master chooses an existing quest for the competion.
    5. The hunt master invites a list of teams to compete about a week before.
+   
    6. Each team captain can accept or reject the invitation.
    7. By 24 hours before the competition, if not accepted, assume rejection.
+   8. Only the User with admin previlages will be allowed to add new locations.
+   
 
 
 ## List of User Roles
@@ -274,7 +278,8 @@ We issue a final team score to each team and then we compare scores and finalize
 ![Quest Page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Questpage1.png) <br>
 * After clicking the views of respective quest,Then it  will be able to view the details of the existing quest. <br>
 ![existing page](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Quest2.png) <br>
-* If the user selects Crete New Quest, The user will be able to add a set of locations and create a new quest.
+* If the user selects Crete New Quest, The user will be able to add a set of locations and create a new quest
+* Only Admin will be able to add the locations.
 * The user should enter quest name, loaction name, location ID, location, location coordinates and Clues. <br>
 ![Add location](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/addlocartioninquest.png) <br>
 * The user who wish to join a Competition will have to click the Competition Icon and select the Existing Competitions.
@@ -473,9 +478,6 @@ After the back end development, testing should be done using selenium with java.
    
  * Markdown:
    Most accessible simple format webpage to build most versatile documentation.
- 
- * Flutter:
-   Flutter is a free and open-source mobile UI framework.
    
   ## Schedule Management
  
