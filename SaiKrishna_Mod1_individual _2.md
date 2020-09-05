@@ -1,5 +1,6 @@
-# Module 1: Individual 2
-I Sai Krishna Emmadishetty of group 4 of project Hunt Game, Client Dr. Denise Case and consultant Dr. Charles Hoot.
+ # Module 1: Individual 2
+ 
+ I Sai Krishna Emmadishetty of group 4 of project Hunt Game, Client Dr. Denise Case and consultant Dr. Charles Hoot.
 
 # Attendance
 Monday August 31 (Zoom)
@@ -9,12 +10,13 @@ Wednesday September 2 (Zoom)
 Friday September 4 (Zoom)
 
 # Half Day 1
+
 1.As the tasks are assigned in jira to me  on synthesis of design, UI developement and testing , scheule management.
 
 2.I started working on ui developement and testing on what are the user possibilies that can user enter the data in order for registering and done with testing as required
 mandatory fields.
 
-https://github.com/sudheera96/Group-4--Hunt-game/commit/d43c16e61bec2a22ffe923c6ffa5c7ccf841674b
+https://github.com/sudheera96/Group-4--Hunt-game/commit/d43c16e61bec2a22ffe923c6ffa5c7ccf841674b 
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/d18fe4fc9dc61a67bdd3b3ca128f73839d8c306b
 
