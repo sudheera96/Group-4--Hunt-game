@@ -473,6 +473,9 @@ After the back end development, testing should be done using selenium with java.
    
  * Markdown:
    Most accessible simple format webpage to build most versatile documentation.
+ 
+ * Flutter:
+   Flutter is a free and open-source mobile UI framework.
    
   ## Schedule Management
  
