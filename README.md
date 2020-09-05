@@ -397,6 +397,55 @@ User who is participating in the quest will have limit time crack the quest
 ![JIRA SPRINT 2](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-02.png?raw=true)
 
 ### JIRA Sprint 3
+
+#### User Story 1
+
+As a team, we have to work on UI implementation 
+
+#### Acceptance Criteria
+
+UI Team should take the task and complete the UI implementation
+
+#### User Story 2
+
+As a team, we have to work on infrastructure Management
+
+#### Acceptance Criteria
+
+Infrastructure Management team will take the task for the Security updates, patches, 24/7 monitoring
+
+#### User Story 3
+
+As a team, we have to work on Back end Implementation
+
+#### Acceptance Criteria
+
+Back end team will be using Node JS to complete the task.
+
+#### User Task 4 
+
+As a team, we have to do UI development and testing
+
+#### Acceptance Criteria
+
+After the development of UI, testing will be testing each and every page.
+
+#### User Task 5
+
+As a team, we have to do database architecture and management
+
+#### Acceptance Criteria
+
+Database architecture team will design, development, implementation ofcomputer programs that store organize information
+
+#### User Task 6
+
+As a team, we have to do Back end Development and Testing
+
+#### Acceptance Criteria
+
+After the back end development, testing should be done using selenium with java.
+
 ![JIRA SPRINT 3](https://github.com/sudheera96/Group-4--Hunt-game/blob/master/folder/Sprint-03.png?raw=true)
 
 ## Technology stack descriptions
