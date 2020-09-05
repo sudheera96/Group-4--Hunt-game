@@ -147,6 +147,7 @@ We issue a final team score to each team and then we compare scores and finalize
 | 17   | 12026    | Batman          |
 | 18   | 12027    | Deadpool        |
 | 19   | 12028    | Chainsmoker     |
+| 20   | 12029    | lion            |
 
 ### Team entity with sample data
 
