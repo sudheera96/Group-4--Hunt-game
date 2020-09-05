@@ -76,5 +76,50 @@
 * Added Issues to the ReadMe: These are the challenging things in the game, these issues should be solved. 
 * Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/7b8fe0b70d3a463e4a0cddd38b2e5860a4473b5e <br> <br>
 * Sent an Email to the clients about the client metting on Wednesday.
-![Email Invitation](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Screenshot%20(18).png).
+![Email Invitation](https://raw.githubusercontent.com/sudheera96/Group-4--Hunt-game/master/folder/Screenshot%20(18).png). <br> <br> <br>
+
+# Module 1: Individual 2
+
+## Attendance:
+
+* August 31 (Monday) - Zoom
+* September 02 (Wednesday) - Zoom
+* September 04 (Friday) - In-Person  <br>  <br> 
+
+## 1. Half Day 1 - 3 hours (1 hour class + 2 hour) 
+* Spent time discussing the Issues in the Project rised by Dr. Hoot.
+* Added Issues in the Repo. (I did not know that we should close the Issue after solving it)
+* Sent a mail to have a group zoom session. 
+* Commit Link: https://github.com/sudheera96/Group-4--Hunt-game/commit/ff81e07c18213e8ee882d7e779a250d013cdd49a  <br>  <br>
+
+## 2. Half Day 2 -  5 hours (1 hour class + 5 hour)
+* Started Working the Issues raised by Dr. Hoot.
+* Added Game Play UI image to cear the issue.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/0ce0bb103393d471019a8ae9e30aa32292cf79c9
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/8d2e0ab0a6a007d5ed88c9ea9114da93b30d1eca
+* Updated and added Competition UI image to clear the Issue on Competition PAge.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/2144cdc2e3291d8faa95392978f0cf2149ec8823
+* Updated the Game and Competition Page with Portrait view, as Dr. Hoot had a suggestion to show the UI in portrait mode.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/27e8f00e6ca14784e0a541583e7d85024b5e9205
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/48bd15958e3d8b863fdbc759ef012ed45743d5c2
+* Closed Issues regarding the UI by adding UI images.
+* Portrait vs Landscape- The application will be a PWA, so it will adapt to the User device.
+* https://github.com/sudheera96/Group-4--Hunt-game/issues/11
+* https://github.com/sudheera96/Group-4--Hunt-game/issues/10
+* https://github.com/sudheera96/Group-4--Hunt-game/issues/8
+* Closed the Issue User Role Confusion - The Developed roles are not same as the User roles.
+* https://github.com/sudheera96/Group-4--Hunt-game/issues/4
+* Closed the issue How do Compitions work: An invite will be sent via mail and invites can be sent to people and not teams.
+* https://github.com/sudheera96/Group-4--Hunt-game/issues/3 <br> <br> <br>
+
+## 3. Half Day 3 - 4 hours (1 hour class + 3 hour)  <br>
+* Removed the issues log from the ReadME file.(I did not know that we should close them, So I had made a note.)
+* Updated the User roles i.e. added how the invite will be sent from the game.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/780f6c41775ed4ba0a3dfc880bd587237d7f3abc
+*  <br> <br> <br>
+* Updated the UI and User roles as suggested by the Client.
+* https://github.com/sudheera96/Group-4--Hunt-game/commit/124e98dc1ff08b2c3534e7918aef178e53c1167b
+* 
+
+
 
