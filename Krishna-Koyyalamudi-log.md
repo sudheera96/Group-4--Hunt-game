@@ -53,7 +53,7 @@
 
 * [Modified sample data in teamplayer entity to resolve issue 5](https://github.com/sudheera96/Group-4--Hunt-game/commit/18af5a36763af3755c076630be6032d48189b05b) : The client questioned the existence of some datafields, which may not be much useful and doesn't serve any purpose. So, I have just listed invite date in player entity and removed date last accessed.
 
-#### Half-Day 3
+### Half-Day 3
 
 * [Update Player entity by removing player points to resolve issue 6](https://github.com/sudheera96/Group-4--Hunt-game/commit/4ccca6cdd0384f686dbbbf9ef3d389f4a638f5e2) : Our team thought of a different approach in awarding points in the competition by awarding points to individual players but the client raised an issue that, it might not be a better approch. So, I have removed the player points datafield and utilized a single datafield in team entity to award points to the whole team.
 
